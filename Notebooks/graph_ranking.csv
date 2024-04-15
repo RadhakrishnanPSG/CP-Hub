@@ -1,0 +1,2633 @@
+,Question ID,Similar Question ID,Question Title
+0,1,15,Two Sum
+1,1,18,Two Sum
+2,1,167,Two Sum
+3,1,170,Two Sum
+4,1,560,Two Sum
+5,1,653,Two Sum
+6,1,1083,Two Sum
+7,1,1798,Two Sum
+8,1,1830,Two Sum
+9,1,2116,Two Sum
+10,1,2133,Two Sum
+11,1,2320,Two Sum
+12,2,43,Add Two Numbers
+13,2,67,Add Two Numbers
+14,2,371,Add Two Numbers
+15,2,415,Add Two Numbers
+16,2,445,Add Two Numbers
+17,2,1031,Add Two Numbers
+18,2,1774,Add Two Numbers
+19,3,159,Longest Substring Without Repeating Characters
+20,3,340,Longest Substring Without Repeating Characters
+21,3,1034,Longest Substring Without Repeating Characters
+22,3,1813,Longest Substring Without Repeating Characters
+23,3,2209,Longest Substring Without Repeating Characters
+24,5,214,Longest Palindromic Substring
+25,5,266,Longest Palindromic Substring
+26,5,336,Longest Palindromic Substring
+27,5,516,Longest Palindromic Substring
+28,5,647,Longest Palindromic Substring
+29,7,8,Reverse Integer
+30,7,190,Reverse Integer
+31,7,2238,Reverse Integer
+32,8,7,String to Integer (atoi)
+33,8,65,String to Integer (atoi)
+34,8,2168,String to Integer (atoi)
+35,9,234,Palindrome Number
+36,9,1375,Palindrome Number
+37,10,44,Regular Expression Matching
+38,11,42,Container With Most Water
+39,12,13,Integer to Roman
+40,12,273,Integer to Roman
+41,13,12,Roman to Integer
+42,15,1,3Sum
+43,15,16,3Sum
+44,15,18,3Sum
+45,15,259,3Sum
+46,16,15,3Sum Closest
+47,16,259,3Sum Closest
+48,17,22,Letter Combinations of a Phone Number
+49,17,39,Letter Combinations of a Phone Number
+50,17,401,Letter Combinations of a Phone Number
+51,18,1,4Sum
+52,18,15,4Sum
+53,18,454,4Sum
+54,18,2122,4Sum
+55,19,528,Remove Nth Node From End of List
+56,19,1618,Remove Nth Node From End of List
+57,19,2216,Remove Nth Node From End of List
+58,20,22,Valid Parentheses
+59,20,32,Valid Parentheses
+60,20,301,Valid Parentheses
+61,20,1045,Valid Parentheses
+62,20,2221,Valid Parentheses
+63,21,23,Merge Two Sorted Lists
+64,21,88,Merge Two Sorted Lists
+65,21,148,Merge Two Sorted Lists
+66,21,244,Merge Two Sorted Lists
+67,21,1774,Merge Two Sorted Lists
+68,21,2071,Merge Two Sorted Lists
+69,22,17,Generate Parentheses
+70,22,20,Generate Parentheses
+71,22,2221,Generate Parentheses
+72,23,21,Merge k Sorted Lists
+73,23,264,Merge k Sorted Lists
+74,24,25,Swap Nodes in Pairs
+75,24,528,Swap Nodes in Pairs
+76,25,24,Reverse Nodes in k-Group
+77,25,528,Reverse Nodes in k-Group
+78,25,2196,Reverse Nodes in k-Group
+79,26,27,Remove Duplicates from Sorted Array
+80,26,80,Remove Duplicates from Sorted Array
+81,27,26,Remove Element
+82,27,203,Remove Element
+83,27,283,Remove Element
+84,28,214,Implement strStr()
+85,28,459,Implement strStr()
+86,30,76,Substring with Concatenation of All Words
+87,31,46,Next Permutation
+88,31,47,Next Permutation
+89,31,60,Next Permutation
+90,31,267,Next Permutation
+91,31,1978,Next Permutation
+92,32,20,Longest Valid Parentheses
+93,33,81,Search in Rotated Sorted Array
+94,33,153,Search in Rotated Sorted Array
+95,33,2273,Search in Rotated Sorted Array
+96,34,278,Find First and Last Position of Element in Sorted Array
+97,34,2165,Find First and Last Position of Element in Sorted Array
+98,34,2210,Find First and Last Position of Element in Sorted Array
+99,35,278,Search Insert Position
+100,36,37,Valid Sudoku
+101,36,2254,Valid Sudoku
+102,37,36,Sudoku Solver
+103,37,1022,Sudoku Solver
+104,38,271,Count and Say
+105,38,443,Count and Say
+106,39,17,Combination Sum
+107,39,40,Combination Sum
+108,39,77,Combination Sum
+109,39,216,Combination Sum
+110,39,254,Combination Sum
+111,39,377,Combination Sum
+112,40,39,Combination Sum II
+113,41,268,First Missing Positive
+114,41,287,First Missing Positive
+115,41,448,First Missing Positive
+116,41,770,First Missing Positive
+117,42,11,Trapping Rain Water
+118,42,238,Trapping Rain Water
+119,42,407,Trapping Rain Water
+120,42,756,Trapping Rain Water
+121,43,2,Multiply Strings
+122,43,66,Multiply Strings
+123,43,67,Multiply Strings
+124,43,415,Multiply Strings
+125,44,10,Wildcard Matching
+126,45,55,Jump Game II
+127,45,1428,Jump Game II
+128,45,2001,Jump Game II
+129,46,31,Permutations
+130,46,47,Permutations
+131,46,60,Permutations
+132,46,77,Permutations
+133,47,31,Permutations II
+134,47,46,Permutations II
+135,47,267,Permutations II
+136,47,1038,Permutations II
+137,48,2015,Rotate Image
+138,49,242,Group Anagrams
+139,49,249,Group Anagrams
+140,50,69,"Pow(x, n)"
+141,50,372,"Pow(x, n)"
+142,51,52,N-Queens
+143,51,1043,N-Queens
+144,52,51,N-Queens II
+145,53,121,Maximum Subarray
+146,53,152,Maximum Subarray
+147,53,697,Maximum Subarray
+148,53,1020,Maximum Subarray
+149,53,1849,Maximum Subarray
+150,53,1893,Maximum Subarray
+151,54,59,Spiral Matrix
+152,54,921,Spiral Matrix
+153,55,45,Jump Game
+154,55,1428,Jump Game
+155,55,2001,Jump Game
+156,56,57,Merge Intervals
+157,56,252,Merge Intervals
+158,56,253,Merge Intervals
+159,56,495,Merge Intervals
+160,56,616,Merge Intervals
+161,56,715,Merge Intervals
+162,56,761,Merge Intervals
+163,56,768,Merge Intervals
+164,56,1028,Merge Intervals
+165,56,2297,Merge Intervals
+166,56,2319,Merge Intervals
+167,57,56,Insert Interval
+168,57,715,Insert Interval
+169,59,54,Spiral Matrix II
+170,59,921,Spiral Matrix II
+171,60,31,Permutation Sequence
+172,60,46,Permutation Sequence
+173,61,189,Rotate List
+174,61,725,Rotate List
+175,62,63,Unique Paths
+176,62,64,Unique Paths
+177,62,174,Unique Paths
+178,62,2192,Unique Paths
+179,63,62,Unique Paths II
+180,63,1022,Unique Paths II
+181,64,62,Minimum Path Sum
+182,64,174,Minimum Path Sum
+183,64,741,Minimum Path Sum
+184,64,2067,Minimum Path Sum
+185,64,2192,Minimum Path Sum
+186,65,8,Valid Number
+187,66,43,Plus One
+188,66,67,Plus One
+189,66,369,Plus One
+190,66,1031,Plus One
+191,67,2,Add Binary
+192,67,43,Add Binary
+193,67,66,Add Binary
+194,67,1031,Add Binary
+195,68,1714,Text Justification
+196,68,2260,Text Justification
+197,69,50,Sqrt(x)
+198,69,367,Sqrt(x)
+199,70,747,Climbing Stairs
+200,70,1013,Climbing Stairs
+201,70,1236,Climbing Stairs
+202,72,161,Edit Distance
+203,72,583,Edit Distance
+204,72,712,Edit Distance
+205,72,1105,Edit Distance
+206,72,2311,Edit Distance
+207,73,289,Set Matrix Zeroes
+208,73,2244,Set Matrix Zeroes
+209,73,2259,Set Matrix Zeroes
+210,73,2314,Set Matrix Zeroes
+211,74,240,Search a 2D Matrix
+212,75,148,Sort Colors
+213,75,280,Sort Colors
+214,75,324,Sort Colors
+215,76,30,Minimum Window Substring
+216,76,209,Minimum Window Substring
+217,76,239,Minimum Window Substring
+218,76,567,Minimum Window Substring
+219,76,632,Minimum Window Substring
+220,76,727,Minimum Window Substring
+221,77,39,Combinations
+222,77,46,Combinations
+223,78,90,Subsets
+224,78,320,Subsets
+225,78,800,Subsets
+226,78,2109,Subsets
+227,78,2170,Subsets
+228,79,212,Word Search
+229,80,26,Remove Duplicates from Sorted Array II
+230,81,33,Search in Rotated Sorted Array II
+231,82,83,Remove Duplicates from Sorted List II
+232,82,1982,Remove Duplicates from Sorted List II
+233,83,82,Remove Duplicates from Sorted List
+234,83,1982,Remove Duplicates from Sorted List
+235,84,85,Largest Rectangle in Histogram
+236,84,1918,Largest Rectangle in Histogram
+237,85,84,Maximal Rectangle
+238,85,221,Maximal Rectangle
+239,86,2265,Partition List
+240,88,21,Merge Sorted Array
+241,88,1019,Merge Sorted Array
+242,88,1028,Merge Sorted Array
+243,89,717,Gray Code
+244,90,78,Subsets II
+245,90,2109,Subsets II
+246,91,639,Decode Ways
+247,91,2091,Decode Ways
+248,92,206,Reverse Linked List II
+249,93,752,Restore IP Addresses
+250,94,98,Binary Tree Inorder Traversal
+251,94,144,Binary Tree Inorder Traversal
+252,94,145,Binary Tree Inorder Traversal
+253,94,173,Binary Tree Inorder Traversal
+254,94,230,Binary Tree Inorder Traversal
+255,94,272,Binary Tree Inorder Traversal
+256,94,285,Binary Tree Inorder Traversal
+257,94,758,Binary Tree Inorder Traversal
+258,94,799,Binary Tree Inorder Traversal
+259,95,96,Unique Binary Search Trees II
+260,95,241,Unique Binary Search Trees II
+261,96,95,Unique Binary Search Trees
+262,98,94,Validate Binary Search Tree
+263,98,501,Validate Binary Search Tree
+264,102,103,Binary Tree Level Order Traversal
+265,102,107,Binary Tree Level Order Traversal
+266,102,111,Binary Tree Level Order Traversal
+267,102,314,Binary Tree Level Order Traversal
+268,102,637,Binary Tree Level Order Traversal
+269,102,764,Binary Tree Level Order Traversal
+270,102,1035,Binary Tree Level Order Traversal
+271,103,102,Binary Tree Zigzag Level Order Traversal
+272,104,110,Maximum Depth of Binary Tree
+273,104,111,Maximum Depth of Binary Tree
+274,104,774,Maximum Depth of Binary Tree
+275,104,1492,Maximum Depth of Binary Tree
+276,105,106,Construct Binary Tree from Preorder and Inorder Traversal
+277,106,105,Construct Binary Tree from Inorder and Postorder Traversal
+278,107,102,Binary Tree Level Order Traversal II
+279,107,637,Binary Tree Level Order Traversal II
+280,108,109,Convert Sorted Array to Binary Search Tree
+281,109,108,Convert Sorted List to Binary Search Tree
+282,109,2306,Convert Sorted List to Binary Search Tree
+283,110,104,Balanced Binary Tree
+284,111,102,Minimum Depth of Binary Tree
+285,111,104,Minimum Depth of Binary Tree
+286,112,113,Path Sum
+287,112,124,Path Sum
+288,112,129,Path Sum
+289,112,437,Path Sum
+290,112,666,Path Sum
+291,113,112,Path Sum II
+292,113,257,Path Sum II
+293,113,437,Path Sum II
+294,113,666,Path Sum II
+295,113,2217,Path Sum II
+296,114,766,Flatten Binary Tree to Linked List
+297,114,1796,Flatten Binary Tree to Linked List
+298,115,2115,Distinct Subsequences
+299,116,117,Populating Next Right Pointers in Each Node
+300,116,199,Populating Next Right Pointers in Each Node
+301,117,116,Populating Next Right Pointers in Each Node II
+302,118,119,Pascal's Triangle
+303,119,118,Pascal's Triangle II
+304,119,2324,Pascal's Triangle II
+305,121,53,Best Time to Buy and Sell Stock
+306,121,122,Best Time to Buy and Sell Stock
+307,121,123,Best Time to Buy and Sell Stock
+308,121,188,Best Time to Buy and Sell Stock
+309,121,309,Best Time to Buy and Sell Stock
+310,121,2138,Best Time to Buy and Sell Stock
+311,121,2144,Best Time to Buy and Sell Stock
+312,122,121,Best Time to Buy and Sell Stock II
+313,122,123,Best Time to Buy and Sell Stock II
+314,122,188,Best Time to Buy and Sell Stock II
+315,122,309,Best Time to Buy and Sell Stock II
+316,122,714,Best Time to Buy and Sell Stock II
+317,123,121,Best Time to Buy and Sell Stock III
+318,123,122,Best Time to Buy and Sell Stock III
+319,123,188,Best Time to Buy and Sell Stock III
+320,123,689,Best Time to Buy and Sell Stock III
+321,124,112,Binary Tree Maximum Path Sum
+322,124,129,Binary Tree Maximum Path Sum
+323,124,666,Binary Tree Maximum Path Sum
+324,124,687,Binary Tree Maximum Path Sum
+325,124,1492,Binary Tree Maximum Path Sum
+326,125,234,Valid Palindrome
+327,125,680,Valid Palindrome
+328,125,2130,Valid Palindrome
+329,125,2231,Valid Palindrome
+330,126,127,Word Ladder II
+331,126,2276,Word Ladder II
+332,127,126,Word Ladder
+333,127,433,Word Ladder
+334,128,298,Longest Consecutive Sequence
+335,128,2278,Longest Consecutive Sequence
+336,129,112,Sum Root to Leaf Numbers
+337,129,124,Sum Root to Leaf Numbers
+338,129,1030,Sum Root to Leaf Numbers
+339,130,200,Surrounded Regions
+340,130,286,Surrounded Regions
+341,131,132,Palindrome Partitioning
+342,131,1871,Palindrome Partitioning
+343,132,131,Palindrome Partitioning II
+344,132,1871,Palindrome Partitioning II
+345,133,138,Clone Graph
+346,133,1624,Clone Graph
+347,133,1634,Clone Graph
+348,134,1346,Gas Station
+349,136,137,Single Number
+350,136,260,Single Number
+351,136,268,Single Number
+352,136,287,Single Number
+353,136,389,Single Number
+354,137,136,Single Number II
+355,137,260,Single Number II
+356,138,133,Copy List with Random Pointer
+357,138,1624,Copy List with Random Pointer
+358,138,1634,Copy List with Random Pointer
+359,139,140,Word Break
+360,140,139,Word Break II
+361,140,472,Word Break II
+362,141,142,Linked List Cycle
+363,141,202,Linked List Cycle
+364,142,141,Linked List Cycle II
+365,142,287,Linked List Cycle II
+366,143,2216,Reorder List
+367,144,94,Binary Tree Preorder Traversal
+368,144,255,Binary Tree Preorder Traversal
+369,144,775,Binary Tree Preorder Traversal
+370,145,94,Binary Tree Postorder Traversal
+371,145,776,Binary Tree Postorder Traversal
+372,146,460,LRU Cache
+373,146,588,LRU Cache
+374,146,604,LRU Cache
+375,146,1903,LRU Cache
+376,147,148,Insertion Sort List
+377,147,850,Insertion Sort List
+378,148,21,Sort List
+379,148,75,Sort List
+380,148,147,Sort List
+381,148,1992,Sort List
+382,149,356,Max Points on a Line
+383,149,2287,Max Points on a Line
+384,150,224,Evaluate Reverse Polish Notation
+385,150,282,Evaluate Reverse Polish Notation
+386,151,186,Reverse Words in a String
+387,152,53,Maximum Product Subarray
+388,152,198,Maximum Product Subarray
+389,152,238,Maximum Product Subarray
+390,152,628,Maximum Product Subarray
+391,152,713,Maximum Product Subarray
+392,153,33,Find Minimum in Rotated Sorted Array
+393,153,154,Find Minimum in Rotated Sorted Array
+394,154,153,Find Minimum in Rotated Sorted Array II
+395,155,239,Min Stack
+396,155,716,Min Stack
+397,156,206,Binary Tree Upside Down
+398,157,158,Read N Characters Given Read4
+399,158,157,Read N Characters Given read4 II - Call Multiple Times
+400,159,3,Longest Substring with At Most Two Distinct Characters
+401,159,239,Longest Substring with At Most Two Distinct Characters
+402,159,340,Longest Substring with At Most Two Distinct Characters
+403,159,1034,Longest Substring with At Most Two Distinct Characters
+404,160,599,Intersection of Two Linked Lists
+405,161,72,One Edit Distance
+406,162,882,Find Peak Element
+407,162,2047,Find Peak Element
+408,162,2273,Find Peak Element
+409,162,2316,Find Peak Element
+410,163,228,Missing Ranges
+411,167,1,Two Sum II - Input Array Is Sorted
+412,167,653,Two Sum II - Input Array Is Sorted
+413,167,1083,Two Sum II - Input Array Is Sorted
+414,168,171,Excel Sheet Column Title
+415,168,2304,Excel Sheet Column Title
+416,169,229,Majority Element
+417,169,1102,Majority Element
+418,170,1,Two Sum III - Data structure design
+419,170,288,Two Sum III - Data structure design
+420,170,653,Two Sum III - Data structure design
+421,171,168,Excel Sheet Column Number
+422,171,2304,Excel Sheet Column Number
+423,172,233,Factorial Trailing Zeroes
+424,172,809,Factorial Trailing Zeroes
+425,172,2222,Factorial Trailing Zeroes
+426,173,94,Binary Search Tree Iterator
+427,173,251,Binary Search Tree Iterator
+428,173,281,Binary Search Tree Iterator
+429,173,284,Binary Search Tree Iterator
+430,173,285,Binary Search Tree Iterator
+431,173,1729,Binary Search Tree Iterator
+432,174,62,Dungeon Game
+433,174,64,Dungeon Game
+434,174,741,Dungeon Game
+435,174,2354,Dungeon Game
+436,175,577,Combine Two Tables
+437,177,2336,Nth Highest Salary
+438,179,2284,Largest Number
+439,184,1214,Department Highest Salary
+440,186,151,Reverse Words in a String II
+441,186,189,Reverse Words in a String II
+442,188,121,Best Time to Buy and Sell Stock IV
+443,188,122,Best Time to Buy and Sell Stock IV
+444,188,123,Best Time to Buy and Sell Stock IV
+445,189,61,Rotate Array
+446,189,186,Rotate Array
+447,190,7,Reverse Bits
+448,190,191,Reverse Bits
+449,190,2238,Reverse Bits
+450,191,190,Number of 1 Bits
+451,191,231,Number of 1 Bits
+452,191,338,Number of 1 Bits
+453,191,401,Number of 1 Bits
+454,191,461,Number of 1 Bits
+455,191,693,Number of 1 Bits
+456,191,767,Number of 1 Bits
+457,192,347,Word Frequency
+458,198,152,House Robber
+459,198,213,House Robber
+460,198,256,House Robber
+461,198,276,House Robber
+462,198,337,House Robber
+463,198,600,House Robber
+464,198,656,House Robber
+465,198,740,House Robber
+466,198,2262,House Robber
+467,199,116,Binary Tree Right Side View
+468,199,545,Binary Tree Right Side View
+469,200,130,Number of Islands
+470,200,286,Number of Islands
+471,200,305,Number of Islands
+472,200,323,Number of Islands
+473,200,694,Number of Islands
+474,200,695,Number of Islands
+475,200,2035,Number of Islands
+476,200,2103,Number of Islands
+477,202,141,Happy Number
+478,202,258,Happy Number
+479,202,263,Happy Number
+480,202,2076,Happy Number
+481,203,27,Remove Linked List Elements
+482,203,237,Remove Linked List Elements
+483,203,2216,Remove Linked List Elements
+484,204,263,Count Primes
+485,204,264,Count Primes
+486,204,279,Count Primes
+487,205,290,Isomorphic Strings
+488,206,92,Reverse Linked List
+489,206,156,Reverse Linked List
+490,206,234,Reverse Linked List
+491,206,2196,Reverse Linked List
+492,206,2236,Reverse Linked List
+493,207,210,Course Schedule
+494,207,261,Course Schedule
+495,207,310,Course Schedule
+496,207,630,Course Schedule
+497,208,211,Implement Trie (Prefix Tree)
+498,208,642,Implement Trie (Prefix Tree)
+499,208,648,Implement Trie (Prefix Tree)
+500,208,676,Implement Trie (Prefix Tree)
+501,208,1433,Implement Trie (Prefix Tree)
+502,208,1949,Implement Trie (Prefix Tree)
+503,209,76,Minimum Size Subarray Sum
+504,209,325,Minimum Size Subarray Sum
+505,209,718,Minimum Size Subarray Sum
+506,209,1776,Minimum Size Subarray Sum
+507,209,2211,Minimum Size Subarray Sum
+508,209,2329,Minimum Size Subarray Sum
+509,210,207,Course Schedule II
+510,210,269,Course Schedule II
+511,210,310,Course Schedule II
+512,210,444,Course Schedule II
+513,210,630,Course Schedule II
+514,210,1101,Course Schedule II
+515,210,2220,Course Schedule II
+516,211,208,Design Add and Search Words Data Structure
+517,211,746,Design Add and Search Words Data Structure
+518,212,79,Word Search II
+519,212,1022,Word Search II
+520,212,1433,Word Search II
+521,213,198,House Robber II
+522,213,256,House Robber II
+523,213,276,House Robber II
+524,213,337,House Robber II
+525,213,600,House Robber II
+526,213,656,House Robber II
+527,214,5,Shortest Palindrome
+528,214,28,Shortest Palindrome
+529,214,336,Shortest Palindrome
+530,215,324,Kth Largest Element in an Array
+531,215,347,Kth Largest Element in an Array
+532,215,414,Kth Largest Element in an Array
+533,215,789,Kth Largest Element in an Array
+534,215,1014,Kth Largest Element in an Array
+535,215,2113,Kth Largest Element in an Array
+536,215,2204,Kth Largest Element in an Array
+537,215,2250,Kth Largest Element in an Array
+538,216,39,Combination Sum III
+539,217,219,Contains Duplicate
+540,217,220,Contains Duplicate
+541,218,699,The Skyline Problem
+542,219,217,Contains Duplicate II
+543,219,220,Contains Duplicate II
+544,220,217,Contains Duplicate III
+545,220,219,Contains Duplicate III
+546,221,85,Maximal Square
+547,221,769,Maximal Square
+548,221,1312,Maximal Square
+549,221,2200,Maximal Square
+550,222,270,Count Complete Tree Nodes
+551,223,866,Rectangle Area
+552,224,150,Basic Calculator
+553,224,227,Basic Calculator
+554,224,241,Basic Calculator
+555,224,282,Basic Calculator
+556,224,785,Basic Calculator
+557,224,2147,Basic Calculator
+558,224,2328,Basic Calculator
+559,225,232,Implement Stack using Queues
+560,227,224,Basic Calculator II
+561,227,282,Basic Calculator II
+562,227,785,Basic Calculator II
+563,228,163,Summary Ranges
+564,228,352,Summary Ranges
+565,229,169,Majority Element II
+566,229,1102,Majority Element II
+567,230,94,Kth Smallest Element in a BST
+568,230,671,Kth Smallest Element in a BST
+569,231,191,Power of Two
+570,231,326,Power of Two
+571,231,342,Power of Two
+572,232,225,Implement Queue using Stacks
+573,233,172,Number of Digit One
+574,233,1068,Number of Digit One
+575,234,9,Palindrome Linked List
+576,234,125,Palindrome Linked List
+577,234,206,Palindrome Linked List
+578,234,2236,Palindrome Linked List
+579,235,236,Lowest Common Ancestor of a Binary Search Tree
+580,235,1190,Lowest Common Ancestor of a Binary Search Tree
+581,235,1780,Lowest Common Ancestor of a Binary Search Tree
+582,235,1790,Lowest Common Ancestor of a Binary Search Tree
+583,235,1816,Lowest Common Ancestor of a Binary Search Tree
+584,236,235,Lowest Common Ancestor of a Binary Tree
+585,236,1190,Lowest Common Ancestor of a Binary Tree
+586,236,1354,Lowest Common Ancestor of a Binary Tree
+587,236,1780,Lowest Common Ancestor of a Binary Tree
+588,236,1790,Lowest Common Ancestor of a Binary Tree
+589,236,1816,Lowest Common Ancestor of a Binary Tree
+590,236,2217,Lowest Common Ancestor of a Binary Tree
+591,237,203,Delete Node in a Linked List
+592,238,42,Product of Array Except Self
+593,238,152,Product of Array Except Self
+594,238,265,Product of Array Except Self
+595,238,2267,Product of Array Except Self
+596,239,76,Sliding Window Maximum
+597,239,155,Sliding Window Maximum
+598,239,159,Sliding Window Maximum
+599,239,265,Sliding Window Maximum
+600,239,1814,Sliding Window Maximum
+601,240,74,Search a 2D Matrix II
+602,241,95,Different Ways to Add Parentheses
+603,241,224,Different Ways to Add Parentheses
+604,241,282,Different Ways to Add Parentheses
+605,241,2147,Different Ways to Add Parentheses
+606,241,2328,Different Ways to Add Parentheses
+607,242,49,Valid Anagram
+608,242,266,Valid Anagram
+609,242,438,Valid Anagram
+610,243,244,Shortest Word Distance
+611,243,245,Shortest Word Distance
+612,243,2320,Shortest Word Distance
+613,244,21,Shortest Word Distance II
+614,244,243,Shortest Word Distance II
+615,244,245,Shortest Word Distance II
+616,245,243,Shortest Word Distance III
+617,245,244,Shortest Word Distance III
+618,246,247,Strobogrammatic Number
+619,246,248,Strobogrammatic Number
+620,246,1069,Strobogrammatic Number
+621,247,246,Strobogrammatic Number II
+622,247,248,Strobogrammatic Number II
+623,247,2202,Strobogrammatic Number II
+624,248,246,Strobogrammatic Number III
+625,248,247,Strobogrammatic Number III
+626,249,49,Group Shifted Strings
+627,250,572,Count Univalue Subtrees
+628,250,687,Count Univalue Subtrees
+629,251,173,Flatten 2D Vector
+630,251,281,Flatten 2D Vector
+631,251,284,Flatten 2D Vector
+632,251,341,Flatten 2D Vector
+633,252,56,Meeting Rooms
+634,252,253,Meeting Rooms
+635,253,56,Meeting Rooms II
+636,253,252,Meeting Rooms II
+637,253,452,Meeting Rooms II
+638,253,1184,Meeting Rooms II
+639,254,39,Factor Combinations
+640,255,144,Verify Preorder Sequence in Binary Search Tree
+641,256,198,Paint House
+642,256,213,Paint House
+643,256,265,Paint House
+644,256,276,Paint House
+645,257,113,Binary Tree Paths
+646,257,1030,Binary Tree Paths
+647,257,2217,Binary Tree Paths
+648,258,202,Add Digits
+649,258,1082,Add Digits
+650,258,2076,Add Digits
+651,258,2264,Add Digits
+652,259,15,3Sum Smaller
+653,259,16,3Sum Smaller
+654,259,611,3Sum Smaller
+655,259,1083,3Sum Smaller
+656,260,136,Single Number III
+657,260,137,Single Number III
+658,261,207,Graph Valid Tree
+659,261,323,Graph Valid Tree
+660,261,871,Graph Valid Tree
+661,262,1779,Trips and Users
+662,262,1785,Trips and Users
+663,262,1795,Trips and Users
+664,263,202,Ugly Number
+665,263,204,Ugly Number
+666,263,264,Ugly Number
+667,264,23,Ugly Number II
+668,264,204,Ugly Number II
+669,264,263,Ugly Number II
+670,264,279,Ugly Number II
+671,264,313,Ugly Number II
+672,264,1307,Ugly Number II
+673,265,238,Paint House II
+674,265,239,Paint House II
+675,265,256,Paint House II
+676,265,276,Paint House II
+677,266,5,Palindrome Permutation
+678,266,242,Palindrome Permutation
+679,266,267,Palindrome Permutation
+680,266,409,Palindrome Permutation
+681,267,31,Palindrome Permutation II
+682,267,47,Palindrome Permutation II
+683,267,266,Palindrome Permutation II
+684,268,41,Missing Number
+685,268,136,Missing Number
+686,268,287,Missing Number
+687,268,770,Missing Number
+688,268,2107,Missing Number
+689,269,210,Alien Dictionary
+690,270,222,Closest Binary Search Tree Value
+691,270,272,Closest Binary Search Tree Value
+692,270,783,Closest Binary Search Tree Value
+693,271,38,Encode and Decode Strings
+694,271,297,Encode and Decode Strings
+695,271,443,Encode and Decode Strings
+696,271,696,Encode and Decode Strings
+697,272,94,Closest Binary Search Tree Value II
+698,272,270,Closest Binary Search Tree Value II
+699,273,12,Integer to English Words
+700,274,275,H-Index
+701,275,274,H-Index II
+702,276,198,Paint Fence
+703,276,213,Paint Fence
+704,276,256,Paint Fence
+705,276,265,Paint Fence
+706,277,1039,Find the Celebrity
+707,278,34,First Bad Version
+708,278,35,First Bad Version
+709,278,374,First Bad Version
+710,279,204,Perfect Squares
+711,279,264,Perfect Squares
+712,280,75,Wiggle Sort
+713,280,324,Wiggle Sort
+714,280,2085,Wiggle Sort
+715,281,173,Zigzag Iterator
+716,281,251,Zigzag Iterator
+717,281,284,Zigzag Iterator
+718,281,341,Zigzag Iterator
+719,281,1894,Zigzag Iterator
+720,282,150,Expression Add Operators
+721,282,224,Expression Add Operators
+722,282,227,Expression Add Operators
+723,282,241,Expression Add Operators
+724,282,494,Expression Add Operators
+725,283,27,Move Zeroes
+726,284,173,Peeking Iterator
+727,284,251,Peeking Iterator
+728,284,281,Peeking Iterator
+729,285,94,Inorder Successor in BST
+730,285,173,Inorder Successor in BST
+731,285,509,Inorder Successor in BST
+732,286,130,Walls and Gates
+733,286,200,Walls and Gates
+734,286,317,Walls and Gates
+735,286,865,Walls and Gates
+736,286,1036,Walls and Gates
+737,287,41,Find the Duplicate Number
+738,287,136,Find the Duplicate Number
+739,287,142,Find the Duplicate Number
+740,287,268,Find the Duplicate Number
+741,287,645,Find the Duplicate Number
+742,288,170,Unique Word Abbreviation
+743,288,320,Unique Word Abbreviation
+744,289,73,Game of Life
+745,290,205,Word Pattern
+746,290,291,Word Pattern
+747,291,290,Word Pattern II
+748,292,294,Nim Game
+749,293,294,Flip Game
+750,294,292,Flip Game II
+751,294,293,Flip Game II
+752,294,375,Flip Game II
+753,294,464,Flip Game II
+754,295,480,Find Median from Data Stream
+755,295,1953,Find Median from Data Stream
+756,295,2207,Find Median from Data Stream
+757,296,317,Best Meeting Point
+758,296,462,Best Meeting Point
+759,297,271,Serialize and Deserialize Binary Tree
+760,297,449,Serialize and Deserialize Binary Tree
+761,297,652,Serialize and Deserialize Binary Tree
+762,297,765,Serialize and Deserialize Binary Tree
+763,298,128,Binary Tree Longest Consecutive Sequence
+764,298,549,Binary Tree Longest Consecutive Sequence
+765,298,1416,Binary Tree Longest Consecutive Sequence
+766,300,334,Longest Increasing Subsequence
+767,300,354,Longest Increasing Subsequence
+768,300,646,Longest Increasing Subsequence
+769,300,673,Longest Increasing Subsequence
+770,300,712,Longest Increasing Subsequence
+771,300,1766,Longest Increasing Subsequence
+772,300,2096,Longest Increasing Subsequence
+773,300,2234,Longest Increasing Subsequence
+774,301,20,Remove Invalid Parentheses
+775,301,2095,Remove Invalid Parentheses
+776,303,304,Range Sum Query - Immutable
+777,303,307,Range Sum Query - Immutable
+778,303,325,Range Sum Query - Immutable
+779,304,303,Range Sum Query 2D - Immutable
+780,304,308,Range Sum Query 2D - Immutable
+781,305,200,Number of Islands II
+782,305,2198,Number of Islands II
+783,306,872,Additive Number
+784,307,303,Range Sum Query - Mutable
+785,307,308,Range Sum Query - Mutable
+786,308,304,Range Sum Query 2D - Mutable
+787,308,307,Range Sum Query 2D - Mutable
+788,309,121,Best Time to Buy and Sell Stock with Cooldown
+789,309,122,Best Time to Buy and Sell Stock with Cooldown
+790,310,207,Minimum Height Trees
+791,310,210,Minimum Height Trees
+792,312,1042,Burst Balloons
+793,313,264,Super Ugly Number
+794,314,102,Binary Tree Vertical Order Traversal
+795,315,327,Count of Smaller Numbers After Self
+796,315,406,Count of Smaller Numbers After Self
+797,315,493,Count of Smaller Numbers After Self
+798,315,1482,Count of Smaller Numbers After Self
+799,315,2280,Count of Smaller Numbers After Self
+800,316,2157,Remove Duplicate Letters
+801,317,286,Shortest Distance from All Buildings
+802,317,296,Shortest Distance from All Buildings
+803,317,1117,Shortest Distance from All Buildings
+804,319,672,Bulb Switcher
+805,319,1037,Bulb Switcher
+806,319,1491,Bulb Switcher
+807,320,78,Generalized Abbreviation
+808,320,288,Generalized Abbreviation
+809,320,411,Generalized Abbreviation
+810,321,402,Create Maximum Number
+811,321,670,Create Maximum Number
+812,322,1025,Coin Change
+813,322,1393,Coin Change
+814,322,2345,Coin Change
+815,323,200,Number of Connected Components in an Undirected Graph
+816,323,261,Number of Connected Components in an Undirected Graph
+817,323,547,Number of Connected Components in an Undirected Graph
+818,323,2218,Number of Connected Components in an Undirected Graph
+819,324,75,Wiggle Sort II
+820,324,215,Wiggle Sort II
+821,324,280,Wiggle Sort II
+822,324,2085,Wiggle Sort II
+823,325,209,Maximum Size Subarray Sum Equals k
+824,325,303,Maximum Size Subarray Sum Equals k
+825,325,525,Maximum Size Subarray Sum Equals k
+826,325,713,Maximum Size Subarray Sum Equals k
+827,326,231,Power of Three
+828,326,342,Power of Three
+829,326,1889,Power of Three
+830,327,315,Count of Range Sum
+831,327,493,Count of Range Sum
+832,328,725,Odd Even Linked List
+833,330,1930,Patching Array
+834,332,2051,Reconstruct Itinerary
+835,332,2201,Reconstruct Itinerary
+836,334,300,Increasing Triplet Subsequence
+837,334,2122,Increasing Triplet Subsequence
+838,334,2280,Increasing Triplet Subsequence
+839,336,5,Palindrome Pairs
+840,336,214,Palindrome Pairs
+841,336,2237,Palindrome Pairs
+842,337,198,House Robber III
+843,337,213,House Robber III
+844,338,191,Counting Bits
+845,339,364,Nested List Weight Sum
+846,339,565,Nested List Weight Sum
+847,339,690,Nested List Weight Sum
+848,340,3,Longest Substring with At Most K Distinct Characters
+849,340,159,Longest Substring with At Most K Distinct Characters
+850,340,424,Longest Substring with At Most K Distinct Characters
+851,340,1034,Longest Substring with At Most K Distinct Characters
+852,340,1046,Longest Substring with At Most K Distinct Characters
+853,340,2134,Longest Substring with At Most K Distinct Characters
+854,341,251,Flatten Nested List Iterator
+855,341,281,Flatten Nested List Iterator
+856,341,385,Flatten Nested List Iterator
+857,341,565,Flatten Nested List Iterator
+858,342,231,Power of Four
+859,342,326,Power of Four
+860,343,1936,Integer Break
+861,344,345,Reverse String
+862,344,541,Reverse String
+863,345,344,Reverse Vowels of a String
+864,345,1089,Reverse Vowels of a String
+865,346,2211,Moving Average from Data Stream
+866,347,192,Top K Frequent Elements
+867,347,215,Top K Frequent Elements
+868,347,451,Top K Frequent Elements
+869,347,659,Top K Frequent Elements
+870,347,692,Top K Frequent Elements
+871,347,1014,Top K Frequent Elements
+872,347,1919,Top K Frequent Elements
+873,348,810,Design Tic-Tac-Toe
+874,349,350,Intersection of Two Arrays
+875,349,1149,Intersection of Two Arrays
+876,349,1392,Intersection of Two Arrays
+877,349,2190,Intersection of Two Arrays
+878,349,2282,Intersection of Two Arrays
+879,350,349,Intersection of Two Arrays II
+880,350,1044,Intersection of Two Arrays II
+881,350,1392,Intersection of Two Arrays II
+882,350,2282,Intersection of Two Arrays II
+883,352,228,Data Stream as Disjoint Intervals
+884,352,436,Data Stream as Disjoint Intervals
+885,352,715,Data Stream as Disjoint Intervals
+886,354,300,Russian Doll Envelopes
+887,354,2123,Russian Doll Envelopes
+888,355,1640,Design Twitter
+889,356,149,Line Reflection
+890,356,447,Line Reflection
+891,358,621,Rearrange String k Distance Apart
+892,358,778,Rearrange String k Distance Apart
+893,358,2300,Rearrange String k Distance Apart
+894,359,362,Logger Rate Limiter
+895,360,1019,Sort Transformed Array
+896,361,2192,Bomb Enemy
+897,361,2200,Bomb Enemy
+898,362,359,Design Hit Counter
+899,364,339,Nested List Weight Sum II
+900,364,565,Nested List Weight Sum II
+901,367,69,Valid Perfect Square
+902,367,633,Valid Perfect Square
+903,369,66,Plus One Linked List
+904,370,598,Range Addition
+905,370,2385,Range Addition
+906,371,2,Sum of Two Integers
+907,372,50,Super Pow
+908,373,378,Find K Pairs with Smallest Sums
+909,373,719,Find K Pairs with Smallest Sums
+910,373,2150,Find K Pairs with Smallest Sums
+911,374,278,Guess Number Higher or Lower
+912,374,375,Guess Number Higher or Lower
+913,374,658,Guess Number Higher or Lower
+914,375,294,Guess Number Higher or Lower II
+915,375,374,Guess Number Higher or Lower II
+916,375,464,Guess Number Higher or Lower II
+917,375,658,Guess Number Higher or Lower II
+918,376,2271,Wiggle Subsequence
+919,377,39,Combination Sum IV
+920,378,373,Kth Smallest Element in a Sorted Matrix
+921,378,668,Kth Smallest Element in a Sorted Matrix
+922,378,719,Kth Smallest Element in a Sorted Matrix
+923,378,802,Kth Smallest Element in a Sorted Matrix
+924,379,1955,Design Phone Directory
+925,380,381,Insert Delete GetRandom O(1)
+926,381,380,Insert Delete GetRandom O(1) - Duplicates allowed
+927,382,398,Linked List Random Node
+928,383,691,Ransom Note
+929,385,341,Mini Parser
+930,385,439,Mini Parser
+931,385,722,Mini Parser
+932,387,451,First Unique Character in a String
+933,389,136,Find the Difference
+934,392,808,Is Subsequence
+935,392,1051,Is Subsequence
+936,394,471,Decode String
+937,394,726,Decode String
+938,394,1076,Decode String
+939,395,2140,Longest Substring with At Least K Repeating Characters
+940,395,2209,Longest Substring with At Least K Repeating Characters
+941,398,382,Random Pick Index
+942,398,894,Random Pick Index
+943,398,912,Random Pick Index
+944,401,17,Binary Watch
+945,401,191,Binary Watch
+946,402,321,Remove K Digits
+947,402,738,Remove K Digits
+948,402,1792,Remove K Digits
+949,402,2305,Remove K Digits
+950,403,1952,Frog Jump
+951,403,2262,Frog Jump
+952,406,315,Queue Reconstruction by Height
+953,407,42,Trapping Rain Water II
+954,408,411,Valid Word Abbreviation
+955,408,527,Valid Word Abbreviation
+956,408,2184,Valid Word Abbreviation
+957,409,266,Longest Palindrome
+958,409,2237,Longest Palindrome
+959,410,1056,Split Array Largest Sum
+960,410,1192,Split Array Largest Sum
+961,410,2242,Split Array Largest Sum
+962,410,2330,Split Array Largest Sum
+963,411,320,Minimum Unique Word Abbreviation
+964,411,408,Minimum Unique Word Abbreviation
+965,411,527,Minimum Unique Word Abbreviation
+966,412,1316,Fizz Buzz
+967,413,446,Arithmetic Slices
+968,413,1752,Arithmetic Slices
+969,414,215,Third Maximum Number
+970,415,2,Add Strings
+971,415,43,Add Strings
+972,415,1031,Add Strings
+973,416,698,Partition Equal Subset Sum
+974,416,2108,Partition Equal Subset Sum
+975,416,2135,Partition Equal Subset Sum
+976,416,2162,Partition Equal Subset Sum
+977,418,2082,Sentence Screen Fitting
+978,421,1826,Maximum XOR of Two Numbers in an Array
+979,422,425,Valid Word Square
+980,422,777,Valid Word Square
+981,424,340,Longest Repeating Character Replacement
+982,424,1046,Longest Repeating Character Replacement
+983,424,2119,Longest Repeating Character Replacement
+984,424,2134,Longest Repeating Character Replacement
+985,424,2319,Longest Repeating Character Replacement
+986,425,422,Word Squares
+987,433,127,Minimum Genetic Mutation
+988,435,452,Non-overlapping Intervals
+989,436,352,Find Right Interval
+990,437,112,Path Sum III
+991,437,113,Path Sum III
+992,437,666,Path Sum III
+993,437,687,Path Sum III
+994,438,242,Find All Anagrams in a String
+995,438,567,Find All Anagrams in a String
+996,439,385,Ternary Expression Parser
+997,439,722,Ternary Expression Parser
+998,439,736,Ternary Expression Parser
+999,442,448,Find All Duplicates in an Array
+1000,443,38,String Compression
+1001,443,271,String Compression
+1002,443,604,String Compression
+1003,443,1241,String Compression
+1004,444,210,Sequence Reconstruction
+1005,445,2,Add Two Numbers II
+1006,445,1774,Add Two Numbers II
+1007,446,413,Arithmetic Slices II - Subsequence
+1008,447,356,Number of Boomerangs
+1009,448,41,Find All Numbers Disappeared in an Array
+1010,448,442,Find All Numbers Disappeared in an Array
+1011,448,2107,Find All Numbers Disappeared in an Array
+1012,448,2305,Find All Numbers Disappeared in an Array
+1013,449,297,Serialize and Deserialize BST
+1014,449,652,Serialize and Deserialize BST
+1015,449,765,Serialize and Deserialize BST
+1016,450,791,Delete Node in a BST
+1017,451,347,Sort Characters By Frequency
+1018,451,387,Sort Characters By Frequency
+1019,451,1741,Sort Characters By Frequency
+1020,452,253,Minimum Number of Arrows to Burst Balloons
+1021,452,435,Minimum Number of Arrows to Burst Balloons
+1022,453,462,Minimum Moves to Equal Array Elements
+1023,453,2263,Minimum Moves to Equal Array Elements
+1024,453,2273,Minimum Moves to Equal Array Elements
+1025,454,18,4Sum II
+1026,459,28,Repeated Substring Pattern
+1027,459,686,Repeated Substring Pattern
+1028,460,146,LFU Cache
+1029,460,588,LFU Cache
+1030,461,191,Hamming Distance
+1031,461,477,Hamming Distance
+1032,462,296,Minimum Moves to Equal Array Elements II
+1033,462,453,Minimum Moves to Equal Array Elements II
+1034,462,2160,Minimum Moves to Equal Array Elements II
+1035,462,2290,Minimum Moves to Equal Array Elements II
+1036,463,695,Island Perimeter
+1037,463,733,Island Perimeter
+1038,463,1104,Island Perimeter
+1039,464,294,Can I Win
+1040,464,375,Can I Win
+1041,464,486,Can I Win
+1042,468,752,Validate IP Address
+1043,471,394,Encode String with Shortest Length
+1044,471,726,Encode String with Shortest Length
+1045,472,140,Concatenated Words
+1046,474,510,Ones and Zeroes
+1047,474,600,Ones and Zeroes
+1048,474,2261,Ones and Zeroes
+1049,477,461,Total Hamming Distance
+1050,480,295,Sliding Window Median
+1051,485,487,Max Consecutive Ones
+1052,485,1046,Max Consecutive Ones
+1053,485,1542,Max Consecutive Ones
+1054,485,1999,Max Consecutive Ones
+1055,486,464,Predict the Winner
+1056,487,485,Max Consecutive Ones II
+1057,487,1046,Max Consecutive Ones II
+1058,487,2261,Max Consecutive Ones II
+1059,490,499,The Maze
+1060,490,505,The Maze
+1061,491,646,Increasing Subsequences
+1062,493,315,Reverse Pairs
+1063,493,327,Reverse Pairs
+1064,494,282,Target Sum
+1065,495,56,Teemo Attacking
+1066,495,605,Teemo Attacking
+1067,495,649,Teemo Attacking
+1068,496,503,Next Greater Element I
+1069,496,556,Next Greater Element I
+1070,496,739,Next Greater Element I
+1071,496,2227,Next Greater Element I
+1072,498,2197,Diagonal Traverse
+1073,499,490,The Maze III
+1074,499,505,The Maze III
+1075,501,98,Find Mode in Binary Search Tree
+1076,503,496,Next Greater Element II
+1077,503,556,Next Greater Element II
+1078,505,490,The Maze II
+1079,505,499,The Maze II
+1080,507,728,Perfect Number
+1081,508,572,Most Frequent Subtree Sum
+1082,508,2126,Most Frequent Subtree Sum
+1083,509,285,Inorder Successor in BST II
+1084,510,474,Count Subarrays With More Ones Than Zeros
+1085,510,1999,Count Subarrays With More Ones Than Zeros
+1086,510,2261,Count Subarrays With More Ones Than Zeros
+1087,512,2022,Maximum Alternating Subarray Sum
+1088,516,5,Longest Palindromic Subsequence
+1089,516,647,Longest Palindromic Subsequence
+1090,516,730,Longest Palindromic Subsequence
+1091,516,1250,Longest Palindromic Subsequence
+1092,516,1822,Longest Palindromic Subsequence
+1093,516,1897,Longest Palindromic Subsequence
+1094,516,2130,Longest Palindromic Subsequence
+1095,518,1393,Coin Change 2
+1096,520,2235,Detect Capital
+1097,521,522,Longest Uncommon Subsequence I
+1098,522,521,Longest Uncommon Subsequence II
+1099,523,560,Continuous Subarray Sum
+1100,523,2119,Continuous Subarray Sum
+1101,523,2240,Continuous Subarray Sum
+1102,524,720,Longest Word in Dictionary through Deleting
+1103,525,325,Contiguous Array
+1104,526,667,Beautiful Arrangement
+1105,527,408,Word Abbreviation
+1106,527,411,Word Abbreviation
+1107,528,19,Swapping Nodes in a Linked List
+1108,528,24,Swapping Nodes in a Linked List
+1109,528,25,Swapping Nodes in a Linked List
+1110,529,2206,Minesweeper
+1111,530,532,Minimum Absolute Difference in BST
+1112,531,533,Lonely Pixel I
+1113,532,530,K-diff Pairs in an Array
+1114,532,2116,K-diff Pairs in an Array
+1115,532,2150,K-diff Pairs in an Array
+1116,533,531,Lonely Pixel II
+1117,536,606,Construct Binary Tree from String
+1118,539,2266,Minimum Time Difference
+1119,541,344,Reverse String II
+1120,541,557,Reverse String II
+1121,542,550,01 Matrix
+1122,542,2259,01 Matrix
+1123,543,1665,Diameter of Binary Tree
+1124,545,199,Boundary of Binary Tree
+1125,546,664,Remove Boxes
+1126,546,2247,Remove Boxes
+1127,547,323,Number of Provinces
+1128,547,657,Number of Provinces
+1129,547,734,Number of Provinces
+1130,547,737,Number of Provinces
+1131,547,1085,Number of Provinces
+1132,547,2206,Number of Provinces
+1133,548,1678,Split Array with Equal Sum
+1134,549,298,Binary Tree Longest Consecutive Sequence II
+1135,549,1416,Binary Tree Longest Consecutive Sequence II
+1136,550,542,Shortest Path to Get Food
+1137,550,1414,Shortest Path to Get Food
+1138,551,552,Student Attendance Record I
+1139,552,551,Student Attendance Record II
+1140,554,2322,Brick Wall
+1141,556,496,Next Greater Element III
+1142,556,503,Next Greater Element III
+1143,556,1997,Next Greater Element III
+1144,557,541,Reverse Words in a String III
+1145,560,1,Subarray Sum Equals K
+1146,560,523,Subarray Sum Equals K
+1147,560,713,Subarray Sum Equals K
+1148,560,724,Subarray Sum Equals K
+1149,560,1016,Subarray Sum Equals K
+1150,560,1776,Subarray Sum Equals K
+1151,560,2211,Subarray Sum Equals K
+1152,560,2369,Subarray Sum Equals K
+1153,561,2112,Array Partition I
+1154,561,2248,Array Partition I
+1155,561,2261,Array Partition I
+1156,563,1609,Binary Tree Tilt
+1157,564,1375,Find the Closest Palindrome
+1158,564,1997,Find the Closest Palindrome
+1159,565,339,Array Nesting
+1160,565,341,Array Nesting
+1161,565,364,Array Nesting
+1162,566,2132,Reshape the Matrix
+1163,567,76,Permutation in String
+1164,567,438,Permutation in String
+1165,568,803,Maximum Vacation Days
+1166,569,571,Median Employee Salary
+1167,571,569,Find Median Given Frequency of Numbers
+1168,572,250,Subtree of Another Tree
+1169,572,508,Subtree of Another Tree
+1170,576,688,Out of Boundary Paths
+1171,576,2239,Out of Boundary Paths
+1172,577,175,Employee Bonus
+1173,583,72,Delete Operation for Two Strings
+1174,583,712,Delete Operation for Two Strings
+1175,583,1250,Delete Operation for Two Strings
+1176,587,2074,Erect the Fence
+1177,588,146,Design In-Memory File System
+1178,588,460,Design In-Memory File System
+1179,588,635,Design In-Memory File System
+1180,591,616,Tag Validator
+1181,592,640,Fraction Addition and Subtraction
+1182,598,370,Range Addition II
+1183,599,160,Minimum Index Sum of Two Lists
+1184,600,198,Non-negative Integers without Consecutive Ones
+1185,600,213,Non-negative Integers without Consecutive Ones
+1186,600,474,Non-negative Integers without Consecutive Ones
+1187,604,146,Design Compressed String Iterator
+1188,604,443,Design Compressed String Iterator
+1189,605,495,Can Place Flowers
+1190,605,735,Can Place Flowers
+1191,606,536,Construct String from Binary Tree
+1192,606,652,Construct String from Binary Tree
+1193,609,2079,Find Duplicate File in System
+1194,611,259,Valid Triangle Number
+1195,615,1641,Average Salary: Departments VS Company
+1196,616,56,Add Bold Tag in String
+1197,616,591,Add Bold Tag in String
+1198,621,358,Task Scheduler
+1199,621,778,Task Scheduler
+1200,621,2084,Task Scheduler
+1201,628,152,Maximum Product of Three Numbers
+1202,630,207,Course Schedule III
+1203,630,210,Course Schedule III
+1204,630,2176,Course Schedule III
+1205,632,76,Smallest Range Covering Elements from K Lists
+1206,633,367,Sum of Square Numbers
+1207,635,588,Design Log Storage System
+1208,637,102,Average of Levels in Binary Tree
+1209,637,107,Average of Levels in Binary Tree
+1210,639,91,Decode Ways II
+1211,639,2091,Decode Ways II
+1212,639,2251,Decode Ways II
+1213,640,592,Solve the Equation
+1214,640,2328,Solve the Equation
+1215,642,208,Design Search Autocomplete System
+1216,643,644,Maximum Average Subarray I
+1217,643,2211,Maximum Average Subarray I
+1218,644,643,Maximum Average Subarray II
+1219,645,287,Set Mismatch
+1220,646,300,Maximum Length of Pair Chain
+1221,646,491,Maximum Length of Pair Chain
+1222,647,5,Palindromic Substrings
+1223,647,516,Palindromic Substrings
+1224,648,208,Replace Words
+1225,649,495,Dota2 Senate
+1226,650,651,2 Keys Keyboard
+1227,650,1033,2 Keys Keyboard
+1228,651,650,4 Keys Keyboard
+1229,652,297,Find Duplicate Subtrees
+1230,652,449,Find Duplicate Subtrees
+1231,652,606,Find Duplicate Subtrees
+1232,652,2079,Find Duplicate Subtrees
+1233,653,1,Two Sum IV - Input is a BST
+1234,653,167,Two Sum IV - Input is a BST
+1235,653,170,Two Sum IV - Input is a BST
+1236,653,1150,Two Sum IV - Input is a BST
+1237,654,1040,Maximum Binary Tree
+1238,656,198,Coin Path
+1239,656,213,Coin Path
+1240,657,547,Robot Return to Origin
+1241,657,2239,Robot Return to Origin
+1242,658,374,Find K Closest Elements
+1243,658,375,Find K Closest Elements
+1244,658,719,Find K Closest Elements
+1245,659,347,Split Array into Consecutive Subsequences
+1246,659,1422,Split Array into Consecutive Subsequences
+1247,664,546,Strange Printer
+1248,664,1696,Strange Printer
+1249,665,2205,Non-decreasing Array
+1250,666,112,Path Sum IV
+1251,666,113,Path Sum IV
+1252,666,124,Path Sum IV
+1253,666,437,Path Sum IV
+1254,667,526,Beautiful Arrangement II
+1255,668,378,Kth Smallest Number in Multiplication Table
+1256,668,719,Kth Smallest Number in Multiplication Table
+1257,668,802,Kth Smallest Number in Multiplication Table
+1258,670,321,Maximum Swap
+1259,671,230,Second Minimum Node In a Binary Tree
+1260,672,319,Bulb Switcher II
+1261,672,1491,Bulb Switcher II
+1262,673,300,Number of Longest Increasing Subsequence
+1263,673,674,Number of Longest Increasing Subsequence
+1264,674,673,Longest Continuous Increasing Subsequence
+1265,674,727,Longest Continuous Increasing Subsequence
+1266,676,208,Implement Magic Dictionary
+1267,676,720,Implement Magic Dictionary
+1268,677,1333,Map Sum Pairs
+1269,678,763,Valid Parenthesis String
+1270,678,2221,Valid Parenthesis String
+1271,680,125,Valid Palindrome II
+1272,680,1178,Valid Palindrome II
+1273,682,1720,Baseball Game
+1274,684,685,Redundant Connection
+1275,684,721,Redundant Connection
+1276,684,2246,Redundant Connection
+1277,685,684,Redundant Connection II
+1278,686,459,Repeated String Match
+1279,687,124,Longest Univalue Path
+1280,687,250,Longest Univalue Path
+1281,687,437,Longest Univalue Path
+1282,688,576,Knight Probability in Chessboard
+1283,689,123,Maximum Sum of 3 Non-Overlapping Subarrays
+1284,690,339,Employee Importance
+1285,691,383,Stickers to Spell Word
+1286,692,347,Top K Frequent Words
+1287,692,1014,Top K Frequent Words
+1288,692,1919,Top K Frequent Words
+1289,693,191,Binary Number with Alternating Bits
+1290,694,200,Number of Distinct Islands
+1291,694,711,Number of Distinct Islands
+1292,694,2035,Number of Distinct Islands
+1293,695,200,Max Area of Island
+1294,695,463,Max Area of Island
+1295,695,1845,Max Area of Island
+1296,695,2206,Max Area of Island
+1297,696,271,Count Binary Substrings
+1298,697,53,Degree of an Array
+1299,698,416,Partition to K Equal Sum Subsets
+1300,698,2135,Partition to K Equal Sum Subsets
+1301,699,218,Falling Squares
+1302,711,694,Number of Distinct Islands II
+1303,712,72,Minimum ASCII Delete Sum for Two Strings
+1304,712,300,Minimum ASCII Delete Sum for Two Strings
+1305,712,583,Minimum ASCII Delete Sum for Two Strings
+1306,713,152,Subarray Product Less Than K
+1307,713,325,Subarray Product Less Than K
+1308,713,560,Subarray Product Less Than K
+1309,713,1083,Subarray Product Less Than K
+1310,713,2233,Subarray Product Less Than K
+1311,714,122,Best Time to Buy and Sell Stock with Transaction Fee
+1312,715,56,Range Module
+1313,715,57,Range Module
+1314,715,352,Range Module
+1315,716,155,Max Stack
+1316,717,89,1-bit and 2-bit Characters
+1317,718,209,Maximum Length of Repeated Subarray
+1318,718,2051,Maximum Length of Repeated Subarray
+1319,719,373,Find K-th Smallest Pair Distance
+1320,719,378,Find K-th Smallest Pair Distance
+1321,719,658,Find K-th Smallest Pair Distance
+1322,719,668,Find K-th Smallest Pair Distance
+1323,719,802,Find K-th Smallest Pair Distance
+1324,720,524,Longest Word in Dictionary
+1325,720,676,Longest Word in Dictionary
+1326,720,2009,Longest Word in Dictionary
+1327,721,684,Accounts Merge
+1328,721,734,Accounts Merge
+1329,721,737,Accounts Merge
+1330,722,385,Remove Comments
+1331,722,439,Remove Comments
+1332,724,560,Find Pivot Index
+1333,724,2102,Find Pivot Index
+1334,724,2369,Find Pivot Index
+1335,725,61,Split Linked List in Parts
+1336,725,328,Split Linked List in Parts
+1337,726,394,Number of Atoms
+1338,726,471,Number of Atoms
+1339,726,736,Number of Atoms
+1340,727,76,Minimum Window Subsequence
+1341,727,674,Minimum Window Subsequence
+1342,728,507,Self Dividing Numbers
+1343,729,731,My Calendar I
+1344,729,732,My Calendar I
+1345,730,516,Count Different Palindromic Subsequences
+1346,731,729,My Calendar II
+1347,731,732,My Calendar II
+1348,732,729,My Calendar III
+1349,732,731,My Calendar III
+1350,733,463,Flood Fill
+1351,734,547,Sentence Similarity
+1352,734,721,Sentence Similarity
+1353,734,737,Sentence Similarity
+1354,735,605,Asteroid Collision
+1355,735,2245,Asteroid Collision
+1356,735,2317,Asteroid Collision
+1357,736,439,Parse Lisp Expression
+1358,736,726,Parse Lisp Expression
+1359,736,781,Parse Lisp Expression
+1360,737,547,Sentence Similarity II
+1361,737,721,Sentence Similarity II
+1362,737,734,Sentence Similarity II
+1363,738,402,Monotone Increasing Digits
+1364,739,496,Daily Temperatures
+1365,739,937,Daily Temperatures
+1366,740,198,Delete and Earn
+1367,741,64,Cherry Pickup
+1368,741,174,Cherry Pickup
+1369,741,2189,Cherry Pickup
+1370,742,2235,To Lower Case
+1371,744,2151,Network Delay Time
+1372,744,2171,Network Delay Time
+1373,745,2269,Find Smallest Letter Greater Than Target
+1374,746,211,Prefix and Suffix Search
+1375,747,70,Min Cost Climbing Stairs
+1376,748,2274,Largest Number At Least Twice of Others
+1377,748,2327,Largest Number At Least Twice of Others
+1378,752,93,IP to CIDR
+1379,752,468,IP to CIDR
+1380,756,42,Pour Water
+1381,758,94,Convert Binary Search Tree to Sorted Doubly Linked List
+1382,761,56,Employee Free Time
+1383,761,1028,Employee Free Time
+1384,763,678,Special Binary String
+1385,764,102,N-ary Tree Level Order Traversal
+1386,764,775,N-ary Tree Level Order Traversal
+1387,764,776,N-ary Tree Level Order Traversal
+1388,764,2151,N-ary Tree Level Order Traversal
+1389,765,297,Serialize and Deserialize N-ary Tree
+1390,765,449,Serialize and Deserialize N-ary Tree
+1391,765,771,Serialize and Deserialize N-ary Tree
+1392,766,114,Flatten a Multilevel Doubly Linked List
+1393,766,1796,Flatten a Multilevel Doubly Linked List
+1394,767,191,Prime Number of Set Bits in Binary Representation
+1395,768,56,Partition Labels
+1396,769,221,Largest Plus Sign
+1397,770,41,Couples Holding Hands
+1398,770,268,Couples Holding Hands
+1399,770,884,Couples Holding Hands
+1400,771,765,Encode N-ary Tree to Binary Tree
+1401,774,104,Maximum Depth of N-ary Tree
+1402,774,2151,Maximum Depth of N-ary Tree
+1403,775,144,N-ary Tree Preorder Traversal
+1404,775,764,N-ary Tree Preorder Traversal
+1405,775,776,N-ary Tree Preorder Traversal
+1406,776,145,N-ary Tree Postorder Traversal
+1407,776,764,N-ary Tree Postorder Traversal
+1408,776,775,N-ary Tree Postorder Traversal
+1409,777,422,Toeplitz Matrix
+1410,778,358,Reorganize String
+1411,778,621,Reorganize String
+1412,778,1304,Reorganize String
+1413,779,780,Max Chunks To Make Sorted II
+1414,780,779,Max Chunks To Make Sorted
+1415,781,736,Basic Calculator IV
+1416,781,785,Basic Calculator IV
+1417,783,270,Search in a Binary Search Tree
+1418,783,784,Search in a Binary Search Tree
+1419,784,783,Insert into a Binary Search Tree
+1420,785,224,Basic Calculator III
+1421,785,227,Basic Calculator III
+1422,785,781,Basic Calculator III
+1423,785,1736,Basic Calculator III
+1424,786,792,Search in a Sorted Array of Unknown Size
+1425,786,1672,Search in a Sorted Array of Unknown Size
+1426,788,907,Minimize Max Distance to Gas Station
+1427,789,215,Kth Largest Element in a Stream
+1428,789,1953,Kth Largest Element in a Stream
+1429,789,2207,Kth Largest Element in a Stream
+1430,791,450,Split BST
+1431,792,786,Binary Search
+1432,794,1753,Swim in Rising Water
+1433,799,94,Minimum Distance Between BST Nodes
+1434,800,78,Letter Case Permutation
+1435,800,1076,Letter Case Permutation
+1436,802,378,K-th Smallest Prime Fraction
+1437,802,668,K-th Smallest Prime Fraction
+1438,802,719,K-th Smallest Prime Fraction
+1439,803,568,Cheapest Flights Within K Stops
+1440,803,2230,Cheapest Flights Within K Stops
+1441,805,1727,Escape The Ghosts
+1442,808,392,Number of Matching Subsequences
+1443,808,1051,Number of Matching Subsequences
+1444,808,2186,Number of Matching Subsequences
+1445,809,172,Preimage Size of Factorial Zeroes Function
+1446,810,348,Valid Tic-Tac-Toe State
+1447,813,2090,All Paths From Source to Target
+1448,815,1385,Champagne Tower
+1449,816,817,Design HashSet
+1450,816,1337,Design HashSet
+1451,817,816,Design HashMap
+1452,817,1337,Design HashMap
+1453,819,2234,Minimum Swaps To Make Sequences Increasing
+1454,821,2101,Bricks Falling When Hit
+1455,821,2322,Bricks Falling When Hit
+1456,823,2162,Split Array With Same Average
+1457,830,1018,Largest Triangle Area
+1458,835,2299,Linked List Components
+1459,838,1337,Design Linked List
+1460,850,147,Insert into a Sorted Circular Linked List
+1461,853,2180,Most Profit Assigning Work
+1462,857,2260,Positions of Large Groups
+1463,859,860,Design Circular Deque
+1464,859,1767,Design Circular Deque
+1465,860,859,Design Circular Queue
+1466,860,1767,Design Circular Queue
+1467,863,1021,Sum of Distances in Tree
+1468,863,2175,Sum of Distances in Tree
+1469,865,286,Robot Room Cleaner
+1470,865,1931,Robot Room Cleaner
+1471,865,1959,Robot Room Cleaner
+1472,865,2203,Robot Room Cleaner
+1473,866,223,Rectangle Overlap
+1474,869,2276,Similar String Groups
+1475,870,1311,Magic Squares In Grid
+1476,871,261,Keys and Rooms
+1477,872,306,Split Array into Fibonacci Sequence
+1478,872,1013,Split Array into Fibonacci Sequence
+1479,874,1720,Backspace String Compare
+1480,875,1766,Longest Mountain in Array
+1481,875,2205,Longest Mountain in Array
+1482,878,1954,Shifting Letters
+1483,879,885,Maximize Distance to Closest Person
+1484,882,162,Peak Index in a Mountain Array
+1485,882,1185,Peak Index in a Mountain Array
+1486,882,1766,Peak Index in a Mountain Array
+1487,883,1902,Car Fleet
+1488,883,2317,Car Fleet
+1489,884,770,K-Similar Strings
+1490,885,879,Exam Room
+1491,889,1777,Buddy Strings
+1492,889,1915,Buddy Strings
+1493,891,2268,Score After Flipping Matrix
+1494,894,398,Random Pick with Blacklist
+1495,894,912,Random Pick with Blacklist
+1496,894,2107,Random Pick with Blacklist
+1497,897,2202,Prime Palindrome
+1498,905,1013,Length of Longest Fibonacci Subsequence
+1499,906,2178,Walking Robot Simulation
+1500,907,788,Koko Eating Bananas
+1501,907,1335,Koko Eating Bananas
+1502,907,2188,Koko Eating Bananas
+1503,908,2216,Middle of the Linked List
+1504,908,2236,Middle of the Linked List
+1505,909,1685,Stone Game
+1506,909,1788,Stone Game
+1507,909,1808,Stone Game
+1508,909,2002,Stone Game
+1509,909,2156,Stone Game
+1510,912,398,Random Pick with Weight
+1511,912,894,Random Pick with Weight
+1512,912,914,Random Pick with Weight
+1513,914,912,Random Point in Non-overlapping Rectangles
+1514,914,915,Random Point in Non-overlapping Rectangles
+1515,915,914,Generate Random Point in a Circle
+1516,918,2213,Reachable Nodes In Subdivided Graph
+1517,918,2218,Reachable Nodes In Subdivided Graph
+1518,920,2190,Uncommon Words from Two Sentences
+1519,921,54,Spiral Matrix III
+1520,921,59,Spiral Matrix III
+1521,923,2031,Super Egg Drop
+1522,932,2316,Monotonic Array
+1523,937,739,Online Stock Span
+1524,941,2283,Sort Array By Parity
+1525,941,2327,Sort Array By Parity
+1526,943,2227,Sum of Subarray Minimums
+1527,947,1483,Online Election
+1528,949,1727,Cat and Mouse
+1529,951,2138,Partition Array into Disjoint Intervals
+1530,957,2095,Minimum Add to Make Parentheses Valid
+1531,958,2271,Sort Array By Parity II
+1532,958,2283,Sort Array By Parity II
+1533,958,2327,Sort Array By Parity II
+1534,967,1224,Minimum Falling Path Sum
+1535,977,2115,Distinct Subsequences II
+1536,978,1766,Valid Mountain Array
+1537,982,2329,Minimum Increment to Make Array Unique
+1538,989,2276,Largest Component Size by Common Factor
+1539,991,2117,Array of Doubled Pairs
+1540,993,2162,Tallest Billboard
+1541,1005,1609,Univalued Binary Tree
+1542,1008,1021,Binary Tree Cameras
+1543,1013,70,Fibonacci Number
+1544,1013,872,Fibonacci Number
+1545,1013,905,Fibonacci Number
+1546,1013,1236,Fibonacci Number
+1547,1014,215,K Closest Points to Origin
+1548,1014,347,K Closest Points to Origin
+1549,1014,692,K Closest Points to Origin
+1550,1014,1888,K Closest Points to Origin
+1551,1016,560,Subarray Sums Divisible by K
+1552,1016,1694,Subarray Sums Divisible by K
+1553,1018,830,Largest Perimeter Triangle
+1554,1019,88,Squares of a Sorted Array
+1555,1019,360,Squares of a Sorted Array
+1556,1020,53,Longest Turbulent Subarray
+1557,1021,863,Distribute Coins in Binary Tree
+1558,1021,1008,Distribute Coins in Binary Tree
+1559,1022,37,Unique Paths III
+1560,1022,63,Unique Paths III
+1561,1022,212,Unique Paths III
+1562,1023,2161,Time Based Key-Value Store
+1563,1025,322,Minimum Cost For Tickets
+1564,1028,56,Interval List Intersections
+1565,1028,88,Interval List Intersections
+1566,1028,761,Interval List Intersections
+1567,1030,129,Smallest String Starting From Leaf
+1568,1030,257,Smallest String Starting From Leaf
+1569,1031,2,Add to Array-Form of Integer
+1570,1031,66,Add to Array-Form of Integer
+1571,1031,67,Add to Array-Form of Integer
+1572,1031,415,Add to Array-Form of Integer
+1573,1033,650,Broken Calculator
+1574,1034,3,Subarrays with K Different Integers
+1575,1034,159,Subarrays with K Different Integers
+1576,1034,340,Subarrays with K Different Integers
+1577,1034,2186,Subarrays with K Different Integers
+1578,1034,2247,Subarrays with K Different Integers
+1579,1035,102,Cousins in Binary Tree
+1580,1036,286,Rotting Oranges
+1581,1036,2206,Rotting Oranges
+1582,1037,319,Minimum Number of K Consecutive Bit Flips
+1583,1037,2286,Minimum Number of K Consecutive Bit Flips
+1584,1038,47,Number of Squareful Arrays
+1585,1039,277,Find the Town Judge
+1586,1040,654,Maximum Binary Tree II
+1587,1042,312,Minimum Cost to Merge Stones
+1588,1042,1126,Minimum Cost to Merge Stones
+1589,1043,51,Grid Illumination
+1590,1044,350,Find Common Characters
+1591,1045,20,Check If Word Is Valid After Substitutions
+1592,1046,340,Max Consecutive Ones III
+1593,1046,424,Max Consecutive Ones III
+1594,1046,485,Max Consecutive Ones III
+1595,1046,487,Max Consecutive Ones III
+1596,1046,2134,Max Consecutive Ones III
+1597,1047,2204,Maximize Sum Of Array After K Negations
+1598,1051,392,Shortest Way to Form String
+1599,1051,808,Shortest Way to Form String
+1600,1052,1067,Campus Bikes
+1601,1056,410,Capacity To Ship Packages Within D Days
+1602,1056,1192,Capacity To Ship Packages Within D Days
+1603,1056,2045,Capacity To Ship Packages Within D Days
+1604,1056,2188,Capacity To Ship Packages Within D Days
+1605,1061,2233,Number of Valid Subarrays
+1606,1062,2102,Partition Array Into Three Parts With Equal Sum
+1607,1067,1052,Campus Bikes II
+1608,1068,233,Digit Count in Range
+1609,1069,246,Confusing Number
+1610,1069,1077,Confusing Number
+1611,1070,1189,Convert to Base -2
+1612,1076,394,Brace Expansion
+1613,1076,800,Brace Expansion
+1614,1076,1188,Brace Expansion
+1615,1077,1069,Confusing Number II
+1616,1082,258,Sum of Digits in the Minimum Number
+1617,1083,1,Two Sum Less Than K
+1618,1083,167,Two Sum Less Than K
+1619,1083,259,Two Sum Less Than K
+1620,1083,713,Two Sum Less Than K
+1621,1085,547,The Earliest Moment When Everyone Become Friends
+1622,1089,345,Remove Vowels from a String
+1623,1091,2126,Maximum Average Subtree
+1624,1094,2304,Matrix Cells in Distance Order
+1625,1099,1753,Path With Maximum Minimum Value
+1626,1100,2230,Connecting Cities With Minimum Cost
+1627,1101,210,Parallel Courses
+1628,1101,1587,Parallel Courses
+1629,1101,2176,Parallel Courses
+1630,1102,169,Check If a Number Is Majority Element in a Sorted Array
+1631,1102,229,Check If a Number Is Majority Element in a Sorted Array
+1632,1104,463,Coloring A Border
+1633,1105,72,Uncrossed Lines
+1634,1107,1805,Minimum Swaps to Group All 1's Together
+1635,1107,2255,Minimum Swaps to Group All 1's Together
+1636,1113,2119,Moving Stones Until Consecutive II
+1637,1117,317,As Far from Land as Possible
+1638,1117,2250,As Far from Land as Possible
+1639,1121,2242,Partition Array for Maximum Sum
+1640,1126,1042,Minimum Cost to Connect Sticks
+1641,1128,1320,Remove All Adjacent Duplicates In String
+1642,1130,2162,Last Stone Weight II
+1643,1146,2106,Greatest Common Divisor of Strings
+1644,1149,349,Intersection of Three Sorted Arrays
+1645,1150,653,Two Sum BSTs
+1646,1153,1154,Product Sales Analysis I
+1647,1154,1153,Product Sales Analysis II
+1648,1154,1155,Product Sales Analysis II
+1649,1155,1154,Product Sales Analysis III
+1650,1159,1792,Smallest Subsequence of Distinct Characters
+1651,1161,1162,Project Employees I
+1652,1162,1161,Project Employees II
+1653,1162,1163,Project Employees II
+1654,1163,1162,Project Employees III
+1655,1170,1250,Shortest Common Supersequence 
+1656,1172,1173,Sales Analysis I
+1657,1173,1172,Sales Analysis II
+1658,1173,1174,Sales Analysis II
+1659,1174,1173,Sales Analysis III
+1660,1177,1740,Tree Diameter
+1661,1178,680,Valid Palindrome III
+1662,1179,1180,Game Play Analysis I
+1663,1180,1179,Game Play Analysis II
+1664,1180,1181,Game Play Analysis II
+1665,1181,1180,Game Play Analysis III
+1666,1181,1182,Game Play Analysis III
+1667,1182,1181,Game Play Analysis IV
+1668,1182,1193,Game Play Analysis IV
+1669,1184,253,Car Pooling
+1670,1185,882,Find in Mountain Array
+1671,1185,1766,Find in Mountain Array
+1672,1185,2205,Find in Mountain Array
+1673,1187,1203,Print FooBar Alternately
+1674,1187,1216,Print FooBar Alternately
+1675,1188,1076,Brace Expansion II
+1676,1189,1070,Encode Number
+1677,1190,235,Smallest Common Region
+1678,1190,236,Smallest Common Region
+1679,1192,410,Divide Chocolate
+1680,1192,1056,Divide Chocolate
+1681,1193,1182,Game Play Analysis V
+1682,1203,1187,Print in Order
+1683,1207,2175,Delete Nodes And Return Forest
+1684,1208,1737,Maximum Nesting Depth of Two Valid Parentheses Strings
+1685,1214,184,Highest Grade For Each Student
+1686,1216,1187,Print Zero Even Odd
+1687,1216,1316,Print Zero Even Odd
+1688,1218,1816,Lowest Common Ancestor of Deepest Leaves
+1689,1220,2105,Smallest Sufficient Team
+1690,1220,2114,Smallest Sufficient Team
+1691,1224,967,Minimum Falling Path Sum II
+1692,1231,2199,Replace Elements with Greatest Element on Right Side
+1693,1236,70,N-th Tribonacci Number
+1694,1236,1013,N-th Tribonacci Number
+1695,1240,1685,Stone Game II
+1696,1240,1788,Stone Game II
+1697,1240,1808,Stone Game II
+1698,1240,2002,Stone Game II
+1699,1240,2156,Stone Game II
+1700,1241,443,Decompress Run-Length Encoded List
+1701,1242,2200,Matrix Block Sum
+1702,1244,2275,Distinct Echo Substrings
+1703,1250,516,Longest Common Subsequence
+1704,1250,583,Longest Common Subsequence
+1705,1250,1170,Longest Common Subsequence
+1706,1250,2309,Longest Common Subsequence
+1707,1256,1257,Rank Transform of an Array
+1708,1256,2210,Rank Transform of an Array
+1709,1257,1256,Rank Transform of a Matrix
+1710,1257,2125,Rank Transform of a Matrix
+1711,1263,1901,Number of Dice Rolls With Target Sum
+1712,1263,2155,Number of Dice Rolls With Target Sum
+1713,1267,1618,Remove Zero Sum Consecutive Nodes from Linked List
+1714,1271,1368,Web Crawler
+1715,1281,2165,Can Make Palindrome from Substring
+1716,1303,1444,Minimum Moves to Reach Target Score
+1717,1303,1520,Minimum Moves to Reach Target Score
+1718,1304,778,Longest Happy String
+1719,1305,1909,Number of Visible People in a Queue
+1720,1305,2227,Number of Visible People in a Queue
+1721,1306,2248,Minimum Absolute Difference
+1722,1307,264,Ugly Number III
+1723,1308,1840,Smallest String With Swaps
+1724,1308,2198,Smallest String With Swaps
+1725,1308,2327,Smallest String With Swaps
+1726,1310,2228,Watering Plants
+1727,1311,870,Largest Magic Square
+1728,1312,221,Count Artifacts That Can Be Extracted
+1729,1316,412,Fizz Buzz Multithreaded
+1730,1316,1216,Fizz Buzz Multithreaded
+1731,1317,1328,Monthly Transactions I
+1732,1320,1128,Remove All Adjacent Duplicates in String II
+1733,1320,2307,Remove All Adjacent Duplicates in String II
+1734,1325,2090,Path with Maximum Probability
+1735,1327,1439,Last Person to Fit in the Bus
+1736,1327,2152,Last Person to Fit in the Bus
+1737,1327,2158,Last Person to Fit in the Bus
+1738,1328,1317,Monthly Transactions II
+1739,1329,1895,Minimum Cost to Move Chips to The Same Position
+1740,1333,677,Sort the Jumbled Numbers
+1741,1335,907,Maximum Candies Allocated to K Children
+1742,1335,1886,Maximum Candies Allocated to K Children
+1743,1335,2000,Maximum Candies Allocated to K Children
+1744,1335,2027,Maximum Candies Allocated to K Children
+1745,1335,2188,Maximum Candies Allocated to K Children
+1746,1335,2294,Maximum Candies Allocated to K Children
+1747,1336,2130,Maximum Product of the Length of Two Palindromic Substrings
+1748,1337,816,Design Skiplist
+1749,1337,817,Design Skiplist
+1750,1337,838,Design Skiplist
+1751,1338,1773,Queries Quality and Percentage
+1752,1343,2155,Dice Roll Simulation
+1753,1346,134,Maximize the Topmost Element After K Moves
+1754,1347,2218,Distance to a Cycle in Undirected Graph
+1755,1352,2118,Maximum Profit in Job Scheduling
+1756,1352,2164,Maximum Profit in Job Scheduling
+1757,1354,236,Find Players With Zero or One Losses
+1758,1355,1770,Minimum Deletions to Make Array Beautiful
+1759,1355,2289,Minimum Deletions to Make Array Beautiful
+1760,1356,1437,Minimum Number of Moves to Make Palindrome
+1761,1357,1420,Report Contiguous Dates
+1762,1357,1759,Report Contiguous Dates
+1763,1367,2123,Maximum Height by Stacking Cuboids 
+1764,1368,1271,Web Crawler Multithreaded
+1765,1369,1777,Minimum Swaps to Make Strings Equal
+1766,1371,2095,Minimum Remove to Make Valid Parentheses
+1767,1371,2221,Minimum Remove to Make Valid Parentheses
+1768,1375,9,Find Palindrome With Fixed Length
+1769,1375,564,Find Palindrome With Fixed Length
+1770,1379,1711,Reconstruct a 2-Row Binary Matrix
+1771,1381,2272,Maximum Score Words Formed by Letters
+1772,1383,2301,Number of Single Divisor Triplets
+1773,1385,815,Number of Ways to Build House of Cards
+1774,1392,349,Find the Difference of Two Arrays
+1775,1392,350,Find the Difference of Two Arrays
+1776,1393,322,Maximum Value of K Coins From Piles
+1777,1393,518,Maximum Value of K Coins From Piles
+1778,1399,2046,Page Recommendations
+1779,1399,2097,Page Recommendations
+1780,1402,2192,Count Square Submatrices with All Ones
+1781,1402,2193,Count Square Submatrices with All Ones
+1782,1403,1871,Palindrome Partitioning III
+1783,1408,2188,Find the Smallest Divisor Given a Threshold
+1784,1409,2259,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1785,1409,2268,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1786,1409,2314,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix
+1787,1414,550,Shortest Path in a Grid with Obstacles Elimination
+1788,1416,298,Check if an Array Is Consecutive
+1789,1416,549,Check if an Array Is Consecutive
+1790,1416,1542,Check if an Array Is Consecutive
+1791,1420,1357,Find the Start and End Number of Continuous Ranges
+1792,1420,1759,Find the Start and End Number of Continuous Ranges
+1793,1421,2215,Find Numbers with Even Number of Digits
+1794,1422,659,Divide Array in Sets of K Consecutive Numbers
+1795,1422,2261,Divide Array in Sets of K Consecutive Numbers
+1796,1428,45,Jump Game III
+1797,1428,55,Jump Game III
+1798,1428,2001,Jump Game III
+1799,1431,1912,All Ancestors of a Node in a Directed Acyclic Graph
+1800,1433,208,Encrypt and Decrypt Strings
+1801,1433,212,Encrypt and Decrypt Strings
+1802,1433,1949,Encrypt and Decrypt Strings
+1803,1437,1356,Minimum Insertion Steps to Make a String Palindrome
+1804,1439,1327,Running Total for Different Genders
+1805,1441,2323,Minimum Flips to Make a OR b Equal to c
+1806,1443,2088,Minimum Distance to Type a Word Using Two Fingers
+1807,1444,1303,Number of Steps to Reduce a Number to Zero
+1808,1444,2288,Number of Steps to Reduce a Number to Zero
+1809,1445,2211,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
+1810,1447,2001,Jump Game IV
+1811,1456,2171,Find the City With the Smallest Number of Neighbors at a Threshold Distance
+1812,1458,2204,Sort Integers by The Number of 1 Bits
+1813,1460,2187,Number of Substrings Containing All Three Characters
+1814,1465,2175,Maximum Product of Splitted Binary Tree
+1815,1466,2001,Jump Game V
+1816,1467,1759,Number of Transactions per Visit
+1817,1468,2274,Check If N and Its Double Exist
+1818,1469,1777,Minimum Number of Steps to Make Two Strings Anagram
+1819,1469,2293,Minimum Number of Steps to Make Two Strings Anagram
+1820,1478,1851,Maximum Number of Events That Can Be Attended
+1821,1478,2118,Maximum Number of Events That Can Be Attended
+1822,1482,315,How Many Numbers Are Smaller Than the Current Number
+1823,1483,947,Rank Teams by Votes
+1824,1485,2321,Minimum Cost to Make at Least One Valid Path in a Grid
+1825,1491,319,Number of Times Binary String Is Prefix-Aligned
+1826,1491,672,Number of Times Binary String Is Prefix-Aligned
+1827,1492,104,Time Needed to Inform All Employees
+1828,1492,124,Time Needed to Inform All Employees
+1829,1499,2229,Maximum Performance of a Team
+1830,1508,2326,Longest Happy Prefix
+1831,1512,2285,Design Underground System
+1832,1517,2091,Restore The Array
+1833,1519,2316,Minimum Subsequence in Non-Increasing Order
+1834,1520,1303,Number of Steps to Reduce a Number in Binary Representation to One
+1835,1522,1685,Stone Game III
+1836,1522,1788,Stone Game III
+1837,1522,1808,Stone Game III
+1838,1522,2002,Stone Game III
+1839,1522,2156,Stone Game III
+1840,1527,2061,Number of Ways to Paint N × 3 Grid
+1841,1531,2105,Number of Ways to Wear Different Hats to Each Other
+1842,1538,1896,Maximum Points You Can Obtain from Cards
+1843,1538,2212,Maximum Points You Can Obtain from Cards
+1844,1542,485,Consecutive Characters
+1845,1542,1416,Consecutive Characters
+1846,1542,1885,Consecutive Characters
+1847,1542,2319,Consecutive Characters
+1848,1564,2057,Create a Session Bar Chart
+1849,1566,2292,Check If a Word Occurs As a Prefix of Any Word in a Sentence
+1850,1587,1101,Parallel Courses II
+1851,1605,2134,Minimum Number of Days to Make m Bouquets
+1852,1605,2257,Minimum Number of Days to Make m Bouquets
+1853,1609,563,Find All The Lonely Nodes
+1854,1609,1005,Find All The Lonely Nodes
+1855,1617,1685,Stone Game IV
+1856,1617,1788,Stone Game IV
+1857,1617,1808,Stone Game IV
+1858,1617,2002,Stone Game IV
+1859,1617,2156,Stone Game IV
+1860,1618,19,Delete N Nodes After M Nodes of a Linked List
+1861,1618,1267,Delete N Nodes After M Nodes of a Linked List
+1862,1620,2301,Check If Array Pairs Are Divisible by k
+1863,1622,2036,Max Value of Equation
+1864,1624,133,Clone Binary Tree With Random Pointer
+1865,1624,138,Clone Binary Tree With Random Pointer
+1866,1624,1634,Clone Binary Tree With Random Pointer
+1867,1625,2335,Group Sold Products By The Date
+1868,1626,1752,Can Make Arithmetic Progression From Sequence
+1869,1627,2317,Last Moment Before All Ants Fall Out of a Plank
+1870,1631,2242,Number of Sub-arrays With Odd Sum
+1871,1634,133,Clone N-ary Tree
+1872,1634,138,Clone N-ary Tree
+1873,1634,1624,Clone N-ary Tree
+1874,1635,2129,Number of Good Pairs
+1875,1635,2225,Number of Good Pairs
+1876,1636,1885,Number of Substrings With Only 1s
+1877,1636,2186,Number of Substrings With Only 1s
+1878,1640,355,Design a File Sharing System
+1879,1641,615,Countries You Can Safely Invest In
+1880,1646,2305,Kth Missing Positive Number
+1881,1648,2095,Minimum Insertions to Balance a Parentheses String
+1882,1650,1655,Find Root of N-Ary Tree
+1883,1655,1650,Move Sub-Tree of N-Ary Tree
+1884,1656,2122,Count Good Triplets
+1885,1665,543,Diameter of N-Ary Tree
+1886,1669,2251,Minimum Cost to Cut a Stick
+1887,1671,1688,The Most Recent Three Orders
+1888,1672,786,Find the Index of the Large Integer
+1889,1675,2188,Magnetic Force Between Two Balls
+1890,1677,2254,Matrix Diagonal Sum
+1891,1678,548,Number of Ways to Split a String
+1892,1685,909,Stone Game V
+1893,1685,1240,Stone Game V
+1894,1685,1522,Stone Game V
+1895,1685,1617,Stone Game V
+1896,1685,1788,Stone Game V
+1897,1685,1808,Stone Game V
+1898,1685,2002,Stone Game V
+1899,1685,2156,Stone Game V
+1900,1688,1671,The Most Recent Orders for Each Product
+1901,1688,1735,The Most Recent Orders for Each Product
+1902,1689,1764,Detect Pattern of Length M Repeated K or More Times
+1903,1694,1016,Make Sum Divisible by P
+1904,1696,664,Strange Printer II
+1905,1697,2256,Strings Differ by One Character
+1906,1703,1719,Put Boxes Into the Warehouse I
+1907,1706,2287,Min Cost to Connect All Points
+1908,1711,1379,Find Valid Matrix Given Row and Column Sums
+1909,1714,68,Rearrange Spaces Between Words
+1910,1719,1703,Put Boxes Into the Warehouse II
+1911,1720,682,Crawler Log Folder
+1912,1720,874,Crawler Log Folder
+1913,1722,2104,Throne Inheritance
+1914,1724,1749,Customer Who Visited but Did Not Make Any Transactions
+1915,1727,805,Cat and Mouse II
+1916,1727,949,Cat and Mouse II
+1917,1729,173,Binary Search Tree Iterator II
+1918,1732,2119,Minimum One Bit Operations to Make Integers Zero
+1919,1735,1688,The Most Frequently Ordered Products for Each Customer
+1920,1736,785,Build Binary Expression Tree From Infix Expression
+1921,1736,1750,Build Binary Expression Tree From Infix Expression
+1922,1737,1208,Maximum Nesting Depth of the Parentheses
+1923,1740,1177,Count Subtrees With Max Distance Between Cities
+1924,1741,451,Sort Array by Increasing Frequency
+1925,1741,2308,Sort Array by Increasing Frequency
+1926,1741,2312,Sort Array by Increasing Frequency
+1927,1743,2256,Count Substrings That Differ by One Character
+1928,1749,1724,Sellers With No Sales
+1929,1750,1736,Check If Two Expression Trees are Equivalent
+1930,1752,413,Arithmetic Subarrays
+1931,1752,1626,Arithmetic Subarrays
+1932,1753,794,Path With Minimum Effort
+1933,1753,1099,Path With Minimum Effort
+1934,1756,2243,Minimum Deletions to Make String Balanced
+1935,1759,1357,Find the Missing IDs
+1936,1759,1420,Find the Missing IDs
+1937,1759,1467,Find the Missing IDs
+1938,1764,1689,Maximum Repeating Substring
+1939,1766,300,Minimum Number of Removals to Make Mountain Array
+1940,1766,875,Minimum Number of Removals to Make Mountain Array
+1941,1766,882,Minimum Number of Removals to Make Mountain Array
+1942,1766,978,Minimum Number of Removals to Make Mountain Array
+1943,1766,1185,Minimum Number of Removals to Make Mountain Array
+1944,1767,859,Design Front Middle Back Queue
+1945,1767,860,Design Front Middle Back Queue
+1946,1770,1355,Minimum Deletions to Make Character Frequencies Unique
+1947,1770,2212,Minimum Deletions to Make Character Frequencies Unique
+1948,1771,2263,Sell Diminishing-Valued Colored Balls
+1949,1772,2280,Create Sorted Array through Instructions
+1950,1772,2319,Create Sorted Array through Instructions
+1951,1773,1338,Percentage of Users Attended a Contest
+1952,1774,2,Add Two Polynomials Represented as Linked Lists
+1953,1774,21,Add Two Polynomials Represented as Linked Lists
+1954,1774,445,Add Two Polynomials Represented as Linked Lists
+1955,1776,209,Minimum Operations to Reduce X to Zero
+1956,1776,560,Minimum Operations to Reduce X to Zero
+1957,1776,2183,Minimum Operations to Reduce X to Zero
+1958,1776,2290,Minimum Operations to Reduce X to Zero
+1959,1777,889,Determine if Two Strings Are Close
+1960,1777,1369,Determine if Two Strings Are Close
+1961,1777,1469,Determine if Two Strings Are Close
+1962,1779,262,Hopper Company Queries I
+1963,1779,1785,Hopper Company Queries I
+1964,1779,1795,Hopper Company Queries I
+1965,1779,2376,Hopper Company Queries I
+1966,1780,235,Lowest Common Ancestor of a Binary Tree II
+1967,1780,236,Lowest Common Ancestor of a Binary Tree II
+1968,1780,1790,Lowest Common Ancestor of a Binary Tree II
+1969,1780,1816,Lowest Common Ancestor of a Binary Tree II
+1970,1781,2184,Check If Two String Arrays are Equivalent
+1971,1785,262,Hopper Company Queries II
+1972,1785,1779,Hopper Company Queries II
+1973,1785,1795,Hopper Company Queries II
+1974,1785,2376,Hopper Company Queries II
+1975,1788,909,Stone Game VI
+1976,1788,1240,Stone Game VI
+1977,1788,1522,Stone Game VI
+1978,1788,1617,Stone Game VI
+1979,1788,1685,Stone Game VI
+1980,1788,1808,Stone Game VI
+1981,1788,2002,Stone Game VI
+1982,1788,2156,Stone Game VI
+1983,1790,235,Lowest Common Ancestor of a Binary Tree III
+1984,1790,236,Lowest Common Ancestor of a Binary Tree III
+1985,1790,1780,Lowest Common Ancestor of a Binary Tree III
+1986,1790,1816,Lowest Common Ancestor of a Binary Tree III
+1987,1792,402,Find the Most Competitive Subsequence
+1988,1792,1159,Find the Most Competitive Subsequence
+1989,1795,262,Hopper Company Queries III
+1990,1795,1779,Hopper Company Queries III
+1991,1795,1785,Hopper Company Queries III
+1992,1795,2376,Hopper Company Queries III
+1993,1796,114,Correct a Binary Tree
+1994,1796,766,Correct a Binary Tree
+1995,1798,1,Max Number of K-Sum Pairs
+1996,1798,1830,Max Number of K-Sum Pairs
+1997,1802,2195,Number of Students Unable to Eat Lunch
+1998,1803,2142,Average Waiting Time
+1999,1805,1107,Minimum Adjacent Swaps for K Consecutive Ones
+2000,1805,2119,Minimum Adjacent Swaps for K Consecutive Ones
+2001,1808,909,Stone Game VII
+2002,1808,1240,Stone Game VII
+2003,1808,1522,Stone Game VII
+2004,1808,1617,Stone Game VII
+2005,1808,1685,Stone Game VII
+2006,1808,1788,Stone Game VII
+2007,1808,1896,Stone Game VII
+2008,1808,2002,Stone Game VII
+2009,1808,2156,Stone Game VII
+2010,1813,3,Maximum Erasure Value
+2011,1814,239,Jump Game VI
+2012,1814,2001,Jump Game VI
+2013,1815,1865,Checking Existence of Edge Length Limited Paths
+2014,1816,235,Lowest Common Ancestor of a Binary Tree IV
+2015,1816,236,Lowest Common Ancestor of a Binary Tree IV
+2016,1816,1218,Lowest Common Ancestor of a Binary Tree IV
+2017,1816,1780,Lowest Common Ancestor of a Binary Tree IV
+2018,1816,1790,Lowest Common Ancestor of a Binary Tree IV
+2019,1816,1816,Lowest Common Ancestor of a Binary Tree IV
+2020,1818,2256,Maximum Score From Removing Substrings
+2021,1820,2306,Number Of Ways To Reconstruct A Tree
+2022,1822,516,Longest Palindromic Subsequence II
+2023,1825,2114,Find Minimum Time to Finish All Jobs
+2024,1826,421,Maximum XOR With an Element From Array
+2025,1826,2068,Maximum XOR With an Element From Array
+2026,1830,1,Count Good Meals
+2027,1830,1798,Count Good Meals
+2028,1830,2220,Count Good Meals
+2029,1831,2251,Ways to Split Array Into Three Subarrays
+2030,1840,1308,Minimize Hamming Distance After Swap Operations
+2031,1845,695,Largest Submatrix With Rearrangements
+2032,1849,53,Maximum Absolute Sum of Any Subarray
+2033,1851,1478,Maximum Number of Events That Can Be Attended II
+2034,1851,2118,Maximum Number of Events That Can Be Attended II
+2035,1851,2164,Maximum Number of Events That Can Be Attended II
+2036,1852,2370,Biggest Window Between Visits
+2037,1865,1815,Checking Existence of Edge Length Limited Paths II
+2038,1871,131,Palindrome Partitioning IV
+2039,1871,132,Palindrome Partitioning IV
+2040,1871,1403,Palindrome Partitioning IV
+2041,1878,2243,Check if Array Is Sorted and Rotated
+2042,1881,2108,Closest Subsequence Sum
+2043,1881,2162,Closest Subsequence Sum
+2044,1883,2217,Find Distance in a Binary Tree
+2045,1885,1542,Count Number of Homogenous Substrings
+2046,1885,1636,Count Number of Homogenous Substrings
+2047,1885,2227,Count Number of Homogenous Substrings
+2048,1886,1335,Minimum Limit of Balls in a Bag
+2049,1886,2188,Minimum Limit of Balls in a Bag
+2050,1888,1014,Find Nearest Point That Has the Same X or Y Coordinate
+2051,1889,326,Check if Number is a Sum of Powers of Three
+2052,1890,2225,Sum of Beauty of All Substrings
+2053,1893,53,Maximum Subarray Sum After One Operation
+2054,1894,281,Merge Strings Alternately
+2055,1895,1329,Minimum Number of Operations to Move All Balls to Each Box
+2056,1896,1538,Maximum Score from Performing Multiplication Operations
+2057,1896,1808,Maximum Score from Performing Multiplication Operations
+2058,1897,516,Maximize Palindrome Length From Subsequences
+2059,1901,1263,Equal Sum Arrays With Minimum Number of Operations
+2060,1902,883,Car Fleet II
+2061,1902,2317,Car Fleet II
+2062,1903,146,Design Most Recently Used Queue
+2063,1909,1305,Buildings With an Ocean View
+2064,1910,1999,Check if Binary String Has at Most One Segment of Ones
+2065,1912,1431,Number of Restricted Paths From First to Last Node
+2066,1915,889,Check if One String Swap Can Make Strings Equal
+2067,1918,84,Maximum Score of a Good Subarray
+2068,1919,347,Sort Features by Popularity
+2069,1919,692,Sort Features by Popularity
+2070,1925,2129,Count Nice Pairs in an Array
+2071,1926,1948,Product's Price for Each Store
+2072,1927,2205,Maximum Ascending Subarray Sum
+2073,1930,330,Maximum Number of Consecutive Values You Can Make
+2074,1931,865,Shortest Path in a Hidden Grid
+2075,1931,1959,Shortest Path in a Hidden Grid
+2076,1936,343,Maximize Number of Nice Divisors
+2077,1938,2329,Minimum Operations to Make the Array Increasing
+2078,1947,2106,Number of Different Subsequences GCDs
+2079,1948,1926,Rearrange Products Table
+2080,1949,208,Implement Trie II (Prefix Tree)
+2081,1949,1433,Implement Trie II (Prefix Tree)
+2082,1952,403,Minimum Sideway Jumps
+2083,1953,295,Finding MK Average
+2084,1953,789,Finding MK Average
+2085,1953,2207,Finding MK Average
+2086,1954,878,Replace All Digits with Characters
+2087,1955,379,Seat Reservation Manager
+2088,1957,2179,Closest Room
+2089,1959,865,Minimum Path Cost in a Hidden Grid
+2090,1959,1931,Minimum Path Cost in a Hidden Grid
+2091,1962,2176,Single-Threaded CPU
+2092,1966,2270,Frequency of the Most Frequent Element
+2093,1967,2186,Longest Substring Of All Vowels in Order
+2094,1970,2168,Sorting the Sentence
+2095,1978,31,Minimum Adjacent Swaps to Reach the Kth Smallest Number
+2096,1979,2191,Maximum Number of People That Can Be Caught in Tag
+2097,1982,82,Remove Duplicates From an Unsorted Linked List
+2098,1982,83,Remove Duplicates From an Unsorted Linked List
+2099,1984,2199,Maximum Distance Between a Pair of Values
+2100,1989,2282,Minimum XOR Sum of Two Arrays
+2101,1989,2291,Minimum XOR Sum of Two Arrays
+2102,1990,2193,Get Biggest Three Rhombus Sums in a Grid
+2103,1992,148,Sort Linked List Already Sorted Using Absolute Values
+2104,1995,2116,Finding Pairs With a Certain Sum
+2105,1997,556,Next Palindrome Using Same Digits
+2106,1997,564,Next Palindrome Using Same Digits
+2107,1999,485,Longer Contiguous Segments of Ones than Zeros
+2108,1999,510,Longer Contiguous Segments of Ones than Zeros
+2109,1999,1910,Longer Contiguous Segments of Ones than Zeros
+2110,2000,1335,Minimum Speed to Arrive on Time
+2111,2000,2013,Minimum Speed to Arrive on Time
+2112,2000,2294,Minimum Speed to Arrive on Time
+2113,2001,45,Jump Game VII
+2114,2001,55,Jump Game VII
+2115,2001,1428,Jump Game VII
+2116,2001,1447,Jump Game VII
+2117,2001,1466,Jump Game VII
+2118,2001,1814,Jump Game VII
+2119,2001,2001,Jump Game VII
+2120,2002,909,Stone Game VIII
+2121,2002,1240,Stone Game VIII
+2122,2002,1522,Stone Game VIII
+2123,2002,1617,Stone Game VIII
+2124,2002,1685,Stone Game VIII
+2125,2002,1788,Stone Game VIII
+2126,2002,1808,Stone Game VIII
+2127,2002,2002,Stone Game VIII
+2128,2002,2156,Stone Game VIII
+2129,2009,720,Longest Word With All Prefixes
+2130,2012,2176,Process Tasks Using Servers
+2131,2013,2000,Minimum Skips to Arrive at Meeting On Time
+2132,2013,2295,Minimum Skips to Arrive at Meeting On Time
+2133,2015,48,Determine Whether Matrix Can Be Obtained By Rotation
+2134,2017,2289,Minimum Number of Flips to Make the Binary String Alternating
+2135,2022,512,Maximum Alternating Subsequence Sum
+2136,2027,1335,Maximum Number of Removable Characters
+2137,2029,2282,Minimize Product Sum of Two Arrays
+2138,2031,923,Egg Drop With 2 Eggs and N Floors
+2139,2035,200,Count Sub Islands
+2140,2035,694,Count Sub Islands
+2141,2035,2103,Count Sub Islands
+2142,2036,1622,Count Pairs in Two Arrays
+2143,2036,2225,Count Pairs in Two Arrays
+2144,2040,2189,Minimum Cost to Reach Destination in Time
+2145,2040,2230,Minimum Cost to Reach Destination in Time
+2146,2045,1056,Cutting Ribbons
+2147,2045,2066,Cutting Ribbons
+2148,2046,1399,Page Recommendations II
+2149,2046,2097,Page Recommendations II
+2150,2047,162,Find a Peak Element II
+2151,2049,2354,Eliminate Maximum Number of Monsters
+2152,2051,332,Longest Common Subpath
+2153,2051,718,Longest Common Subpath
+2154,2053,2226,Check if All Characters Have Equal Number of Occurrences
+2155,2055,2142,Describe the Painting
+2156,2055,2297,Describe the Painting
+2157,2057,1564,Count Salary Categories
+2158,2061,1527,Painting a Grid With Three Different Colors
+2159,2062,2153,Game of Nim
+2160,2063,2064,Leetcodify Friends Recommendations
+2161,2063,2097,Leetcodify Friends Recommendations
+2162,2064,2063,Leetcodify Similar Friends
+2163,2066,2045,Add Minimum Number of Rungs
+2164,2067,64,Maximum Number of Points with Cost
+2165,2067,2108,Maximum Number of Points with Cost
+2166,2068,1826,Maximum Genetic Difference Query
+2167,2071,21,Longest Common Subsequence Between Sorted Arrays
+2168,2074,587,Erect the Fence II
+2169,2075,2191,Brightest Position on Street
+2170,2075,2385,Brightest Position on Street
+2171,2076,202,Sum of Digits of String After Convert
+2172,2076,258,Sum of Digits of String After Convert
+2173,2076,2298,Sum of Digits of String After Convert
+2174,2079,609,Delete Duplicate Folders in System
+2175,2079,652,Delete Duplicate Folders in System
+2176,2082,418,Minimum Cost to Separate Sentence Into Rows
+2177,2083,2106,Three Divisors
+2178,2084,621,Maximum Number of Weeks for Which You Can Work
+2179,2085,280,Array With Elements Not Equal to Average of Neighbors
+2180,2085,324,Array With Elements Not Equal to Average of Neighbors
+2181,2088,1443,Minimum Time to Type Word Using Special Typewriter
+2182,2090,813,Number of Ways to Arrive at Destination
+2183,2090,1325,Number of Ways to Arrive at Destination
+2184,2090,2171,Number of Ways to Arrive at Destination
+2185,2091,91,Number of Ways to Separate Numbers
+2186,2091,639,Number of Ways to Separate Numbers
+2187,2091,1517,Number of Ways to Separate Numbers
+2188,2094,2310,Remove Stones to Minimize the Total
+2189,2095,301,Minimum Number of Swaps to Make the String Balanced
+2190,2095,957,Minimum Number of Swaps to Make the String Balanced
+2191,2095,1371,Minimum Number of Swaps to Make the String Balanced
+2192,2095,1648,Minimum Number of Swaps to Make the String Balanced
+2193,2096,300,Find the Longest Valid Obstacle Course at Each Position
+2194,2097,1399,Strong Friendship
+2195,2097,2046,Strong Friendship
+2196,2097,2063,Strong Friendship
+2197,2101,821,Last Day Where You Can Still Cross
+2198,2102,724,Find the Middle Index in Array
+2199,2102,1062,Find the Middle Index in Array
+2200,2102,2369,Find the Middle Index in Array
+2201,2103,200,Find All Groups of Farmland
+2202,2103,2035,Find All Groups of Farmland
+2203,2104,1722,Operations on Tree
+2204,2105,1220,The Number of Good Subsets
+2205,2105,1531,The Number of Good Subsets
+2206,2106,1146,Find Greatest Common Divisor of Array
+2207,2106,1947,Find Greatest Common Divisor of Array
+2208,2106,2083,Find Greatest Common Divisor of Array
+2209,2107,268,Find Unique Binary String
+2210,2107,448,Find Unique Binary String
+2211,2107,894,Find Unique Binary String
+2212,2108,416,Minimize the Difference Between Target and Chosen Elements
+2213,2108,1881,Minimize the Difference Between Target and Chosen Elements
+2214,2108,2067,Minimize the Difference Between Target and Chosen Elements
+2215,2109,78,Find Array Given Subset Sums
+2216,2109,90,Find Array Given Subset Sums
+2217,2109,2241,Find Array Given Subset Sums
+2218,2112,561,Minimum Difference Between Highest and Lowest of K Scores
+2219,2113,215,Find the Kth Largest Integer in the Array
+2220,2114,1220,Minimum Number of Work Sessions to Finish the Tasks
+2221,2114,1825,Minimum Number of Work Sessions to Finish the Tasks
+2222,2115,115,Number of Unique Good Subsequences
+2223,2115,977,Number of Unique Good Subsequences
+2224,2116,1,Count Number of Pairs With Absolute Difference K
+2225,2116,532,Count Number of Pairs With Absolute Difference K
+2226,2116,1995,Count Number of Pairs With Absolute Difference K
+2227,2116,2277,Count Number of Pairs With Absolute Difference K
+2228,2117,991,Find Original Array From Doubled Array
+2229,2117,2241,Find Original Array From Doubled Array
+2230,2118,1352,Maximum Earnings From Taxi
+2231,2118,1478,Maximum Earnings From Taxi
+2232,2118,1851,Maximum Earnings From Taxi
+2233,2119,424,Minimum Number of Operations to Make Array Continuous
+2234,2119,523,Minimum Number of Operations to Make Array Continuous
+2235,2119,1113,Minimum Number of Operations to Make Array Continuous
+2236,2119,1732,Minimum Number of Operations to Make Array Continuous
+2237,2119,1805,Minimum Number of Operations to Make Array Continuous
+2238,2121,2201,Find if Path Exists in Graph
+2239,2121,2218,Find if Path Exists in Graph
+2240,2122,18,Count Special Quadruplets
+2241,2122,334,Count Special Quadruplets
+2242,2122,1656,Count Special Quadruplets
+2243,2123,354,The Number of Weak Characters in the Game
+2244,2123,1367,The Number of Weak Characters in the Game
+2245,2125,1257,GCD Sort of an Array
+2246,2126,508,Count Nodes Equal to Sum of Descendants
+2247,2126,1091,Count Nodes Equal to Sum of Descendants
+2248,2129,1635,Number of Pairs of Interchangeable Rectangles
+2249,2129,1925,Number of Pairs of Interchangeable Rectangles
+2250,2129,2307,Number of Pairs of Interchangeable Rectangles
+2251,2130,125,Maximum Product of the Length of Two Palindromic Subsequences
+2252,2130,516,Maximum Product of the Length of Two Palindromic Subsequences
+2253,2130,1336,Maximum Product of the Length of Two Palindromic Subsequences
+2254,2130,2318,Maximum Product of the Length of Two Palindromic Subsequences
+2255,2132,566,Convert 1D Array Into 2D Array
+2256,2133,1,Number of Pairs of Strings With Concatenation Equal to Target
+2257,2134,340,Maximize the Confusion of an Exam
+2258,2134,424,Maximize the Confusion of an Exam
+2259,2134,1046,Maximize the Confusion of an Exam
+2260,2134,1605,Maximize the Confusion of an Exam
+2261,2135,416,Maximum Number of Ways to Partition an Array
+2262,2135,698,Maximum Number of Ways to Partition an Array
+2263,2138,121,Sum of Beauty in the Array
+2264,2138,951,Sum of Beauty in the Array
+2265,2140,395,Longest Subsequence Repeated k Times
+2266,2142,1803,Average Height of Buildings in Each Segment
+2267,2142,2055,Average Height of Buildings in Each Segment
+2268,2142,2297,Average Height of Buildings in Each Segment
+2269,2144,121,Maximum Difference Between Increasing Elements
+2270,2144,2199,Maximum Difference Between Increasing Elements
+2271,2147,224,The Score of Students Solving Math Expression
+2272,2147,241,The Score of Students Solving Math Expression
+2273,2150,373,Kth Smallest Product of Two Sorted Arrays
+2274,2150,532,Kth Smallest Product of Two Sorted Arrays
+2275,2151,744,The Time When the Network Becomes Idle
+2276,2151,764,The Time When the Network Becomes Idle
+2277,2151,774,The Time When the Network Becomes Idle
+2278,2152,1327,The Number of Seniors and Juniors to Join the Company
+2279,2152,2158,The Number of Seniors and Juniors to Join the Company
+2280,2153,2062,Subtree Removal Game with Fibonacci Tree
+2281,2155,1263,Find Missing Observations
+2282,2155,1343,Find Missing Observations
+2283,2156,909,Stone Game IX
+2284,2156,1240,Stone Game IX
+2285,2156,1522,Stone Game IX
+2286,2156,1617,Stone Game IX
+2287,2156,1685,Stone Game IX
+2288,2156,1788,Stone Game IX
+2289,2156,1808,Stone Game IX
+2290,2156,2002,Stone Game IX
+2291,2156,2156,Stone Game IX
+2292,2157,316,Smallest K-Length Subsequence With Occurrences of a Letter
+2293,2158,1327,The Number of Seniors and Juniors to Join the Company II
+2294,2158,2152,The Number of Seniors and Juniors to Join the Company II
+2295,2160,462,Minimum Operations to Make a Uni-Value Grid
+2296,2161,1023,Stock Price Fluctuation 
+2297,2162,416,Partition Array Into Two Arrays to Minimize Sum Difference
+2298,2162,823,Partition Array Into Two Arrays to Minimize Sum Difference
+2299,2162,993,Partition Array Into Two Arrays to Minimize Sum Difference
+2300,2162,1130,Partition Array Into Two Arrays to Minimize Sum Difference
+2301,2162,1881,Partition Array Into Two Arrays to Minimize Sum Difference
+2302,2163,2190,Kth Distinct String in an Array
+2303,2164,1352,Two Best Non-Overlapping Events
+2304,2164,1851,Two Best Non-Overlapping Events
+2305,2165,34,Plates Between Candles
+2306,2165,1281,Plates Between Candles
+2307,2168,8,Check if Numbers Are Ascending in a Sentence
+2308,2168,1970,Check if Numbers Are Ascending in a Sentence
+2309,2168,2243,Check if Numbers Are Ascending in a Sentence
+2310,2170,78,Count Number of Maximum Bitwise-OR Subsets
+2311,2171,744,Second Minimum Time to Reach Destination
+2312,2171,1456,Second Minimum Time to Reach Destination
+2313,2171,2090,Second Minimum Time to Reach Destination
+2314,2173,2219,Number of Valid Words in a Sentence
+2315,2175,863,Count Nodes With the Highest Score
+2316,2175,1207,Count Nodes With the Highest Score
+2317,2175,1465,Count Nodes With the Highest Score
+2318,2176,630,Parallel Courses III
+2319,2176,1101,Parallel Courses III
+2320,2176,1962,Parallel Courses III
+2321,2176,2012,Parallel Courses III
+2322,2176,2246,Parallel Courses III
+2323,2178,906,Walking Robot Simulation II
+2324,2179,1957,Most Beautiful Item for Each Query
+2325,2180,853,Maximum Number of Tasks You Can Assign
+2326,2180,2263,Maximum Number of Tasks You Can Assign
+2327,2183,1776,Minimum Operations to Convert Number
+2328,2184,408,Check if an Original String Exists Given Two Encoded Strings
+2329,2184,1781,Check if an Original String Exists Given Two Encoded Strings
+2330,2186,808,Count Vowel Substrings of a String
+2331,2186,1034,Count Vowel Substrings of a String
+2332,2186,1636,Count Vowel Substrings of a String
+2333,2186,1967,Count Vowel Substrings of a String
+2334,2187,1460,Vowels of All Substrings
+2335,2188,907,Minimized Maximum of Products Distributed to Any Store
+2336,2188,1056,Minimized Maximum of Products Distributed to Any Store
+2337,2188,1335,Minimized Maximum of Products Distributed to Any Store
+2338,2188,1408,Minimized Maximum of Products Distributed to Any Store
+2339,2188,1675,Minimized Maximum of Products Distributed to Any Store
+2340,2188,1886,Minimized Maximum of Products Distributed to Any Store
+2341,2188,2294,Minimized Maximum of Products Distributed to Any Store
+2342,2189,741,Maximum Path Quality of a Graph
+2343,2189,2040,Maximum Path Quality of a Graph
+2344,2190,349,Count Common Words With One Occurrence
+2345,2190,920,Count Common Words With One Occurrence
+2346,2190,2163,Count Common Words With One Occurrence
+2347,2191,1979,Minimum Number of Buckets Required to Collect Rainwater from Houses
+2348,2191,2075,Minimum Number of Buckets Required to Collect Rainwater from Houses
+2349,2192,62,Minimum Cost Homecoming of a Robot in a Grid
+2350,2192,64,Minimum Cost Homecoming of a Robot in a Grid
+2351,2192,361,Minimum Cost Homecoming of a Robot in a Grid
+2352,2192,1402,Minimum Cost Homecoming of a Robot in a Grid
+2353,2193,1402,Count Fertile Pyramids in a Land
+2354,2193,1990,Count Fertile Pyramids in a Land
+2355,2195,1802,Time Needed to Buy Tickets
+2356,2196,25,Reverse Nodes in Even Length Groups
+2357,2196,206,Reverse Nodes in Even Length Groups
+2358,2197,498,Decode the Slanted Ciphertext
+2359,2198,305,Process Restricted Friend Requests
+2360,2198,1308,Process Restricted Friend Requests
+2361,2198,2246,Process Restricted Friend Requests
+2362,2199,1231,Two Furthest Houses With Different Colors
+2363,2199,1984,Two Furthest Houses With Different Colors
+2364,2199,2144,Two Furthest Houses With Different Colors
+2365,2200,221,Stamping the Grid
+2366,2200,361,Stamping the Grid
+2367,2200,1242,Stamping the Grid
+2368,2201,332,Valid Arrangement of Pairs
+2369,2201,2121,Valid Arrangement of Pairs
+2370,2202,247,Sum of k-Mirror Numbers
+2371,2202,897,Sum of k-Mirror Numbers
+2372,2203,865,Number of Spaces Cleaning Robot Cleaned
+2373,2204,215,Find Subsequence of Length K With the Largest Sum
+2374,2204,1047,Find Subsequence of Length K With the Largest Sum
+2375,2204,1458,Find Subsequence of Length K With the Largest Sum
+2376,2204,2267,Find Subsequence of Length K With the Largest Sum
+2377,2205,665,Find Good Days to Rob the Bank
+2378,2205,875,Find Good Days to Rob the Bank
+2379,2205,1185,Find Good Days to Rob the Bank
+2380,2205,1927,Find Good Days to Rob the Bank
+2381,2206,529,Detonate the Maximum Bombs
+2382,2206,547,Detonate the Maximum Bombs
+2383,2206,695,Detonate the Maximum Bombs
+2384,2206,1036,Detonate the Maximum Bombs
+2385,2207,295,Sequentially Ordinal Rank Tracker
+2386,2207,789,Sequentially Ordinal Rank Tracker
+2387,2207,1953,Sequentially Ordinal Rank Tracker
+2388,2209,3,Number of Equal Count Substrings
+2389,2209,395,Number of Equal Count Substrings
+2390,2209,2303,Number of Equal Count Substrings
+2391,2210,34,Find Target Indices After Sorting Array
+2392,2210,1256,Find Target Indices After Sorting Array
+2393,2211,209,K Radius Subarray Averages
+2394,2211,346,K Radius Subarray Averages
+2395,2211,560,K Radius Subarray Averages
+2396,2211,643,K Radius Subarray Averages
+2397,2211,1445,K Radius Subarray Averages
+2398,2212,1538,Removing Minimum and Maximum From Array
+2399,2212,1770,Removing Minimum and Maximum From Array
+2400,2213,918,Find All People With Secret
+2401,2214,2223,The Winner University
+2402,2215,1421,Finding 3-Digit Even Numbers
+2403,2216,19,Delete the Middle Node of a Linked List
+2404,2216,143,Delete the Middle Node of a Linked List
+2405,2216,203,Delete the Middle Node of a Linked List
+2406,2216,908,Delete the Middle Node of a Linked List
+2407,2217,113,Step-By-Step Directions From a Binary Tree Node to Another
+2408,2217,236,Step-By-Step Directions From a Binary Tree Node to Another
+2409,2217,257,Step-By-Step Directions From a Binary Tree Node to Another
+2410,2217,1883,Step-By-Step Directions From a Binary Tree Node to Another
+2411,2218,323,Paths in Maze That Lead to Same Room
+2412,2218,918,Paths in Maze That Lead to Same Room
+2413,2218,1347,Paths in Maze That Lead to Same Room
+2414,2218,2121,Paths in Maze That Lead to Same Room
+2415,2219,2173,Maximum Number of Words Found in Sentences
+2416,2220,210,Find All Possible Recipes from Given Supplies
+2417,2220,1830,Find All Possible Recipes from Given Supplies
+2418,2221,20,Check if a Parentheses String Can Be Valid
+2419,2221,22,Check if a Parentheses String Can Be Valid
+2420,2221,678,Check if a Parentheses String Can Be Valid
+2421,2221,1371,Check if a Parentheses String Can Be Valid
+2422,2222,172,Abbreviating the Product of a Range
+2423,2223,2214,The Number of Rich Customers
+2424,2225,1635,Substrings That Begin and End With the Same Letter
+2425,2225,1890,Substrings That Begin and End With the Same Letter
+2426,2225,2036,Substrings That Begin and End With the Same Letter
+2427,2225,2303,Substrings That Begin and End With the Same Letter
+2428,2226,2053,Rings and Rods
+2429,2227,496,Sum of Subarray Ranges
+2430,2227,943,Sum of Subarray Ranges
+2431,2227,1305,Sum of Subarray Ranges
+2432,2227,1885,Sum of Subarray Ranges
+2433,2228,1310,Watering Plants II
+2434,2229,1499,Maximum Fruits Harvested After at Most K Steps
+2435,2230,803,Minimum Cost to Reach City With Discounts
+2436,2230,1100,Minimum Cost to Reach City With Discounts
+2437,2230,2040,Minimum Cost to Reach City With Discounts
+2438,2231,125,Find First Palindromic String in the Array
+2439,2233,713,Number of Smooth Descent Periods of a Stock
+2440,2233,1061,Number of Smooth Descent Periods of a Stock
+2441,2234,300,Minimum Operations to Make the Array K-Increasing
+2442,2234,819,Minimum Operations to Make the Array K-Increasing
+2443,2235,520,Capitalize the Title
+2444,2235,742,Capitalize the Title
+2445,2236,206,Maximum Twin Sum of a Linked List
+2446,2236,234,Maximum Twin Sum of a Linked List
+2447,2236,908,Maximum Twin Sum of a Linked List
+2448,2237,336,Longest Palindrome by Concatenating Two Letter Words
+2449,2237,409,Longest Palindrome by Concatenating Two Letter Words
+2450,2238,7,A Number After a Double Reversal
+2451,2238,190,A Number After a Double Reversal
+2452,2239,576,Execution of All Suffix Instructions Staying in a Grid
+2453,2239,657,Execution of All Suffix Instructions Staying in a Grid
+2454,2240,523,Intervals Between Identical Elements
+2455,2241,2109,Recover the Original Array
+2456,2241,2117,Recover the Original Array
+2457,2242,410,Subsequence of Size K With the Largest Even Sum
+2458,2242,1121,Subsequence of Size K With the Largest Even Sum
+2459,2242,1631,Subsequence of Size K With the Largest Even Sum
+2460,2243,1756,Check if All A's Appears Before All B's
+2461,2243,1878,Check if All A's Appears Before All B's
+2462,2243,2168,Check if All A's Appears Before All B's
+2463,2244,73,Number of Laser Beams in a Bank
+2464,2245,735,Destroying Asteroids
+2465,2246,684,Maximum Employees to Be Invited to a Meeting
+2466,2246,2176,Maximum Employees to Be Invited to a Meeting
+2467,2246,2198,Maximum Employees to Be Invited to a Meeting
+2468,2247,546,Number of Unique Flavors After Sharing K Candies
+2469,2247,1034,Number of Unique Flavors After Sharing K Candies
+2470,2248,561,Minimum Cost of Buying Candies With Discount
+2471,2248,1306,Minimum Cost of Buying Candies With Discount
+2472,2250,215,K Highest Ranked Items Within a Price Range
+2473,2250,1117,K Highest Ranked Items Within a Price Range
+2474,2251,639,Number of Ways to Divide a Long Corridor
+2475,2251,1669,Number of Ways to Divide a Long Corridor
+2476,2251,1831,Number of Ways to Divide a Long Corridor
+2477,2254,36,Check if Every Row and Column Contains All Numbers
+2478,2254,1677,Check if Every Row and Column Contains All Numbers
+2479,2255,1107,Minimum Swaps to Group All 1's Together II
+2480,2256,1697,Count Words Obtained After Adding a Letter
+2481,2256,1743,Count Words Obtained After Adding a Letter
+2482,2256,1818,Count Words Obtained After Adding a Letter
+2483,2257,1605,Earliest Possible Day of Full Bloom
+2484,2259,73,Minimum Operations to Remove Adjacent Ones in Matrix
+2485,2259,542,Minimum Operations to Remove Adjacent Ones in Matrix
+2486,2259,1409,Minimum Operations to Remove Adjacent Ones in Matrix
+2487,2259,2268,Minimum Operations to Remove Adjacent Ones in Matrix
+2488,2260,68,Divide a String Into Groups of Size k
+2489,2260,857,Divide a String Into Groups of Size k
+2490,2261,474,All Divisions With the Highest Score of a Binary Array
+2491,2261,487,All Divisions With the Highest Score of a Binary Array
+2492,2261,510,All Divisions With the Highest Score of a Binary Array
+2493,2261,561,All Divisions With the Highest Score of a Binary Array
+2494,2261,1422,All Divisions With the Highest Score of a Binary Array
+2495,2262,198,Solving Questions With Brainpower
+2496,2262,403,Solving Questions With Brainpower
+2497,2263,453,Maximum Running Time of N Computers
+2498,2263,1771,Maximum Running Time of N Computers
+2499,2263,2180,Maximum Running Time of N Computers
+2500,2263,2294,Maximum Running Time of N Computers
+2501,2264,258,Minimum Sum of Four Digit Number After Splitting Digits
+2502,2265,86,Partition Array According to Given Pivot
+2503,2265,2271,Partition Array According to Given Pivot
+2504,2266,539,Minimum Cost to Set Cooking Time
+2505,2267,238,Minimum Difference in Sums After Removal of Elements
+2506,2267,2204,Minimum Difference in Sums After Removal of Elements
+2507,2268,891,Remove All Ones With Row and Column Flips
+2508,2268,1409,Remove All Ones With Row and Column Flips
+2509,2268,2259,Remove All Ones With Row and Column Flips
+2510,2268,2314,Remove All Ones With Row and Column Flips
+2511,2269,745,Count Elements With Strictly Smaller and Greater Elements 
+2512,2270,1966,Find All Lonely Numbers in the Array
+2513,2271,376,Rearrange Array Elements by Sign
+2514,2271,958,Rearrange Array Elements by Sign
+2515,2271,2265,Rearrange Array Elements by Sign
+2516,2271,2327,Rearrange Array Elements by Sign
+2517,2272,1381,Maximum Good People Based on Statements
+2518,2273,33,Pour Water Between Buckets to Make Water Levels Equal
+2519,2273,162,Pour Water Between Buckets to Make Water Levels Equal
+2520,2273,453,Pour Water Between Buckets to Make Water Levels Equal
+2521,2274,748,Keep Multiplying Found Values by Two
+2522,2274,1468,Keep Multiplying Found Values by Two
+2523,2275,1244,Find Substring With Given Hash Value
+2524,2276,126,Groups of Strings
+2525,2276,869,Groups of Strings
+2526,2276,989,Groups of Strings
+2527,2277,2116,Count Equal and Divisible Pairs in an Array
+2528,2278,128,Find Three Consecutive Integers That Sum to a Given Number
+2529,2280,315,Count Good Triplets in an Array
+2530,2280,334,Count Good Triplets in an Array
+2531,2280,1772,Count Good Triplets in an Array
+2532,2282,349,Choose Numbers From Two Arrays in Range
+2533,2282,350,Choose Numbers From Two Arrays in Range
+2534,2282,1989,Choose Numbers From Two Arrays in Range
+2535,2282,2029,Choose Numbers From Two Arrays in Range
+2536,2283,941,Sort Even and Odd Indices Independently
+2537,2283,958,Sort Even and Odd Indices Independently
+2538,2284,179,Smallest Value of the Rearranged Number
+2539,2285,1512,Design Bitset
+2540,2286,1037,Minimum Time to Remove All Cars Containing Illegal Goods
+2541,2287,149,Minimum Number of Lines to Cover Points
+2542,2287,1706,Minimum Number of Lines to Cover Points
+2543,2288,1444,Count Operations to Obtain Zero
+2544,2289,1355,Minimum Operations to Make the Array Alternating
+2545,2289,2017,Minimum Operations to Make the Array Alternating
+2546,2290,462,Removing Minimum Number of Magic Beans
+2547,2290,1776,Removing Minimum Number of Magic Beans
+2548,2291,1989,Maximum AND Sum of Array
+2549,2292,1566,Counting Words With a Given Prefix
+2550,2293,1469,Minimum Number of Steps to Make Two Strings Anagram II
+2551,2294,1335,Minimum Time to Complete Trips
+2552,2294,2000,Minimum Time to Complete Trips
+2553,2294,2188,Minimum Time to Complete Trips
+2554,2294,2263,Minimum Time to Complete Trips
+2555,2295,2013,Minimum Time to Finish the Race
+2556,2297,56,Amount of New Area Painted Each Day
+2557,2297,2055,Amount of New Area Painted Each Day
+2558,2297,2142,Amount of New Area Painted Each Day
+2559,2298,2076,Count Integers With Even Digit Sum
+2560,2299,835,Merge Nodes in Between Zeros
+2561,2300,358,Construct String With Repeat Limit
+2562,2301,1383,Count Array Pairs Divisible by K
+2563,2301,1620,Count Array Pairs Divisible by K
+2564,2303,2209,Unique Substrings With Equal Digit Frequency
+2565,2303,2225,Unique Substrings With Equal Digit Frequency
+2566,2304,168,Cells in a Range on an Excel Sheet
+2567,2304,171,Cells in a Range on an Excel Sheet
+2568,2304,1094,Cells in a Range on an Excel Sheet
+2569,2305,402,Append K Integers With Minimal Sum
+2570,2305,448,Append K Integers With Minimal Sum
+2571,2305,1646,Append K Integers With Minimal Sum
+2572,2306,109,Create Binary Tree From Descriptions
+2573,2306,1820,Create Binary Tree From Descriptions
+2574,2307,1320,Replace Non-Coprime Numbers in Array
+2575,2307,2129,Replace Non-Coprime Numbers in Array
+2576,2308,1741,Divide Array Into Equal Pairs
+2577,2309,1250,Maximize Number of Subsequences in a String
+2578,2310,2094,Minimum Operations to Halve Array Sum
+2579,2311,72,Minimum White Tiles After Covering With Carpets
+2580,2312,1741,Most Frequent Number Following Key In an Array
+2581,2314,73,Remove All Ones With Row and Column Flips II
+2582,2314,1409,Remove All Ones With Row and Column Flips II
+2583,2314,2268,Remove All Ones With Row and Column Flips II
+2584,2316,162,Count Hills and Valleys in an Array
+2585,2316,932,Count Hills and Valleys in an Array
+2586,2316,1519,Count Hills and Valleys in an Array
+2587,2317,735,Count Collisions on a Road
+2588,2317,883,Count Collisions on a Road
+2589,2317,1627,Count Collisions on a Road
+2590,2317,1902,Count Collisions on a Road
+2591,2318,2130,Maximum Points in an Archery Competition
+2592,2319,56,Longest Substring of One Repeating Character
+2593,2319,424,Longest Substring of One Repeating Character
+2594,2319,1542,Longest Substring of One Repeating Character
+2595,2319,1772,Longest Substring of One Repeating Character
+2596,2320,1,Find All K-Distant Indices in an Array
+2597,2320,243,Find All K-Distant Indices in an Array
+2598,2321,1485,Minimum Weighted Subgraph With the Required Paths
+2599,2322,554,Number of Ways to Build Sturdy Brick Wall
+2600,2322,821,Number of Ways to Build Sturdy Brick Wall
+2601,2323,1441,Minimum Bit Flips to Convert Number
+2602,2324,119,Find Triangular Sum of an Array
+2603,2326,1508,Sum of Scores of Built Strings
+2604,2327,748,Largest Number After Digit Swaps by Parity
+2605,2327,941,Largest Number After Digit Swaps by Parity
+2606,2327,958,Largest Number After Digit Swaps by Parity
+2607,2327,1308,Largest Number After Digit Swaps by Parity
+2608,2327,2271,Largest Number After Digit Swaps by Parity
+2609,2328,224,Minimize Result by Adding Parentheses to Expression
+2610,2328,241,Minimize Result by Adding Parentheses to Expression
+2611,2328,640,Minimize Result by Adding Parentheses to Expression
+2612,2329,209,Maximum Product After K Increments
+2613,2329,982,Maximum Product After K Increments
+2614,2329,1938,Maximum Product After K Increments
+2615,2330,410,Maximum Total Beauty of the Gardens
+2616,2335,1625,Finding the Topic of Each Post
+2617,2336,177,The Number of Users That Are Eligible for Discount
+2618,2336,2371,The Number of Users That Are Eligible for Discount
+2619,2345,322,Minimum Number of Operations to Convert Time
+2620,2354,174,Minimum Health to Beat Game
+2621,2354,2049,Minimum Health to Beat Game
+2622,2369,560,Maximum Sum Score of Array
+2623,2369,724,Maximum Sum Score of Array
+2624,2369,2102,Maximum Sum Score of Array
+2625,2370,1852,Users With Two Purchases Within Seven Days
+2626,2371,2336,The Users That Are Eligible for Discount
+2627,2376,1779,Number of Times a Driver Was a Passenger
+2628,2376,1785,Number of Times a Driver Was a Passenger
+2629,2376,1795,Number of Times a Driver Was a Passenger
+2630,2385,370,Count Positions on Street With Required Brightness
+2631,2385,2075,Count Positions on Street With Required Brightness
